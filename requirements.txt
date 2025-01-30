@@ -1,0 +1,5 @@
+biopython>=1.81
+pandas>=2.0.3
+numpy>=1.24.3
+pygbif>=0.6.1
+progressbar2>=4.2.0
