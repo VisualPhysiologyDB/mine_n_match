@@ -36,14 +36,14 @@ The core functionality of this package revolves around fetching sequence data (b
 
 1.  **Example:**
     Here is a minimal usage example for the `ncbi_mine_seq_data` function. This example uses the `species_list` variable, which is a list of species names, and `query` variable which is a search string for Entrez.
-
+    ***NOTE - You can also just open the exaample jupyter-notebook, 'mine_n_match_tester.ipynb', when you download the git-repo and perform this example there (that's what I recommend).
     ```python
     # Import functions for mining NCBI
     from mine_ncbi_functions import ncbi_fetch_species, ncbi_mine_seq_data 
     # Import json so we can load any existing 
     import json
     # Email for when we query NCBI
-    email = "sethfrazer@ucsb.edu"  # Replace with your email
+    email = "example_email@ucsb.edu"  # Replace with your email
     ```
 
      ```python
