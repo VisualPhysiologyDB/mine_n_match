@@ -58,9 +58,9 @@ The core functionality of this package revolves around fetching sequence data (b
      ```
   
      ```python
-      term = f"(opsin[Title] OR rhodopsin[Title] OR OPN[Title] OR rh1[Title] OR rh2[Title] OR Rh1[Title] OR Rh2[Title]) NOT partial[Title] NOT voucher[All Fields] NOT kinase[All Fields] NOT kinase-like[All Fields] NOT similar[Title] NOT homolog[Title] NOT opsin-like[Title]"
+      query = f"(opsin[Title] OR rhodopsin[Title] OR OPN[Title] OR rh1[Title] OR rh2[Title] OR Rh1[Title] OR Rh2[Title]) NOT partial[Title] NOT voucher[All Fields] NOT kinase[All Fields] NOT kinase-like[All Fields] NOT similar[Title] NOT homolog[Title] NOT opsin-like[Title]"
   
-      ncbi_query_df, query_report_dir = ncbi_mine_seq_data(email=email, job_label='ncbi_mammalia_opsins', out='ncbi_mammalia_opsins', species_list=species_list[140:143], taxa_dictionary=species_data)
+      ncbi_query_df, query_report_dir = ncbi_mine_seq_data(email=email, job_label='ncbi_mammalia_opsins', out='ncbi_mammalia_opsins', species_list=species_list[140:143], taxa_dictionary=species_data, query=query)
      ```
 
 ## Notes
