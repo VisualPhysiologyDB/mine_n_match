@@ -21,7 +21,7 @@ The core functionality of this package revolves around fetching sequence data (b
 
    A. Create a Conda environment for Mine-N-Match (make sure you have [Conda](https://www.anaconda.com/) installed)
    ```bash
-   conda create --name mnm_env python=3.11
+   conda create --name mnm_env python=3.9.17
    ```
    ### THEN
    ```bash
