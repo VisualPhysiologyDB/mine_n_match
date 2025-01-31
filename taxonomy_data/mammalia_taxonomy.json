@@ -1,0 +1,3574 @@
+{
+    "Macrauchenia sp. MW-2017": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Litopterna",
+        "Family": "Macraucheniidae",
+        "Genus": "Macrauchenia",
+        "Synonyms": [],
+        "TaxId": "1970152"
+    },
+    "Macrauchenia patachonica": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Litopterna",
+        "Family": "Macraucheniidae",
+        "Genus": "Macrauchenia",
+        "Synonyms": [],
+        "TaxId": "1566623"
+    },
+    "Macrauchenia sp. FW-2014": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Litopterna",
+        "Family": "Macraucheniidae",
+        "Genus": "Macrauchenia",
+        "Synonyms": [],
+        "TaxId": "1563127"
+    },
+    "Toxodon sp. FW-2014": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Notoungulata",
+        "Family": "Toxodontidae",
+        "Genus": "Toxodon",
+        "Synonyms": [],
+        "TaxId": "1563122"
+    },
+    "Cabassous tatouay": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Cabassous",
+        "Synonyms": [
+            "Dasypus tatouay"
+        ],
+        "TaxId": "1756214"
+    },
+    "Tolypeutes tricinctus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Tolypeutes",
+        "Synonyms": [
+            "Dasypus tricinctus"
+        ],
+        "TaxId": "183750"
+    },
+    "Dasypus novemcinctus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Dasypodidae",
+        "Genus": "Dasypus",
+        "Synonyms": [
+            "Dasypus fenestratus"
+        ],
+        "TaxId": "9361"
+    },
+    "Euphractus sexcinctus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Euphractus",
+        "Synonyms": [
+            "Dasypus sexcinctus"
+        ],
+        "TaxId": "143300"
+    },
+    "Cabassous centralis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Cabassous",
+        "Synonyms": [
+            "Tatoua centralis"
+        ],
+        "TaxId": "1756215"
+    },
+    "Neuryurus rudis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Neuryurus",
+        "Synonyms": [],
+        "TaxId": "3376248"
+    },
+    "Cabassous chacoensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Cabassous",
+        "Synonyms": [],
+        "TaxId": "1756213"
+    },
+    "Doedicurus sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Doedicurus",
+        "Synonyms": [],
+        "TaxId": "1849957"
+    },
+    "Dasypus bellus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Dasypodidae",
+        "Genus": "Dasypus",
+        "Synonyms": [],
+        "TaxId": "2976653"
+    },
+    "Dasypus sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Dasypodidae",
+        "Genus": "Dasypus",
+        "Synonyms": [],
+        "TaxId": "30574"
+    },
+    "Chlamyphorus truncatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Chlamyphorus",
+        "Synonyms": [],
+        "TaxId": "450267"
+    },
+    "Chaetophractus vellerosus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Chaetophractus",
+        "Synonyms": [
+            "Dasypus vellerosus"
+        ],
+        "TaxId": "340076"
+    },
+    "Dasypus septemcinctus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Dasypodidae",
+        "Genus": "Dasypus",
+        "Synonyms": [],
+        "TaxId": "1700840"
+    },
+    "Dasypus hybridus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Dasypodidae",
+        "Genus": "Dasypus",
+        "Synonyms": [],
+        "TaxId": "1756220"
+    },
+    "Cingulata sp. BOLD:AAE3389": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "974357"
+    },
+    "Neuryurus sp. MPM2019": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Neuryurus",
+        "Synonyms": [],
+        "TaxId": "2821562"
+    },
+    "Dasypus sp. VJL-2004": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Dasypodidae",
+        "Genus": "Dasypus",
+        "Synonyms": [],
+        "TaxId": "286599"
+    },
+    "Glyptodon sp. SLP-2019": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Cingulata",
+        "Family": "Chlamyphoridae",
+        "Genus": "Glyptodon",
+        "Synonyms": [],
+        "TaxId": "2546663"
+    },
+    "Glossotherium robustum": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Mylodontidae",
+        "Genus": "Glossotherium",
+        "Synonyms": [],
+        "TaxId": "2591764"
+    },
+    "Choloepus didactylus x hoffmanni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Megalonychidae",
+        "Genus": "Choloepus",
+        "Synonyms": [
+            "Choloepus didactylus x Choloepus hoffmanni"
+        ],
+        "TaxId": "927259"
+    },
+    "Acratocnus ye": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Megalonychidae",
+        "Genus": "Acratocnus",
+        "Synonyms": [],
+        "TaxId": "2546656"
+    },
+    "Cyclopes rufus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Cyclopedidae",
+        "Genus": "Cyclopes",
+        "Synonyms": [],
+        "TaxId": "2716321"
+    },
+    "Parocnus serus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Megalonychidae",
+        "Genus": "Parocnus",
+        "Synonyms": [],
+        "TaxId": "2546659"
+    },
+    "Choloepus hoffmanni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Megalonychidae",
+        "Genus": "Choloepus",
+        "Synonyms": [],
+        "TaxId": "9358"
+    },
+    "Scelidodon sp. SLP-2019": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Mylodontidae",
+        "Genus": "Scelidodon",
+        "Synonyms": [],
+        "TaxId": "2546666"
+    },
+    "Choloepus didactylus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Megalonychidae",
+        "Genus": "Choloepus",
+        "Synonyms": [
+            "Choloepus brasiliensis",
+            "Choloepus brasiliensis Fitzinger 1871"
+        ],
+        "TaxId": "27675"
+    },
+    "Pilosa sp. BOLD:AAJ5166": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "976177"
+    },
+    "Bradypus tridactylus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Bradypodidae",
+        "Genus": "Bradypus",
+        "Synonyms": [],
+        "TaxId": "9354"
+    },
+    "Bradypus sp. DEW-2006": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Bradypodidae",
+        "Genus": "Bradypus",
+        "Synonyms": [],
+        "TaxId": "380228"
+    },
+    "Bradypus variegatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Bradypodidae",
+        "Genus": "Bradypus",
+        "Synonyms": [
+            "Bradypus griseus"
+        ],
+        "TaxId": "9355"
+    },
+    "Mylodon darwinii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Mylodontidae",
+        "Genus": "Mylodon",
+        "Synonyms": [],
+        "TaxId": "48784"
+    },
+    "Scelidotherium sp. SLP-2019": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Mylodontidae",
+        "Genus": "Scelidotherium",
+        "Synonyms": [],
+        "TaxId": "2546665"
+    },
+    "Megatherium americanum": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Megatheriidae",
+        "Genus": "Megatherium",
+        "Synonyms": [],
+        "TaxId": "2546660"
+    },
+    "Tamandua tetradactyla": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Myrmecophagidae",
+        "Genus": "Tamandua",
+        "Synonyms": [
+            "Myrmecophaga tetradactyla"
+        ],
+        "TaxId": "48850"
+    },
+    "Neocnus dousman": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Megalonychidae",
+        "Genus": "Neocnus",
+        "Synonyms": [],
+        "TaxId": "2546657"
+    },
+    "Neocnus comes": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pilosa",
+        "Family": "Megalonychidae",
+        "Genus": "Neocnus",
+        "Synonyms": [],
+        "TaxId": "2546658"
+    },
+    "Muntiacus sp. JAV13": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Cervidae",
+        "Genus": "Muntiacus",
+        "Synonyms": [],
+        "TaxId": "1954430"
+    },
+    "Bootherium bombifrons": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Bovidae",
+        "Genus": "Bootherium",
+        "Synonyms": [
+            "Bison bombifrons"
+        ],
+        "TaxId": "1922215"
+    },
+    "Lama glama": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Camelidae",
+        "Genus": "Lama",
+        "Synonyms": [
+            "Camelus glama",
+            "Lama guanicoe glama"
+        ],
+        "TaxId": "9844"
+    },
+    "Mazama sp. PERD011": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Cervidae",
+        "Genus": "Mazama",
+        "Synonyms": [],
+        "TaxId": "2862964"
+    },
+    "Caperea marginata": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Neobalaenidae",
+        "Genus": "Caperea",
+        "Synonyms": [
+            "Balaena marginata"
+        ],
+        "TaxId": "27604"
+    },
+    "Bison priscus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Bovidae",
+        "Genus": "Bison",
+        "Synonyms": [],
+        "TaxId": "268291"
+    },
+    "Muntiacus sp. SUM2": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Cervidae",
+        "Genus": "Muntiacus",
+        "Synonyms": [],
+        "TaxId": "1954446"
+    },
+    "Redunca arundinum": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Bovidae",
+        "Genus": "Redunca",
+        "Synonyms": [
+            "Antilope arundinum"
+        ],
+        "TaxId": "59554"
+    },
+    "Tasmacetus shepherdi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Ziphiidae",
+        "Genus": "Tasmacetus",
+        "Synonyms": [],
+        "TaxId": "52116"
+    },
+    "Ovis sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Bovidae",
+        "Genus": "Ovis",
+        "Synonyms": [],
+        "TaxId": "9939"
+    },
+    "Rangifer tarandus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Cervidae",
+        "Genus": "Rangifer",
+        "Synonyms": [
+            "Cervus tarandus"
+        ],
+        "TaxId": "9870"
+    },
+    "Rusa alfredi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Cervidae",
+        "Genus": "Rusa",
+        "Synonyms": [
+            "Cervus alfredi"
+        ],
+        "TaxId": "1088129"
+    },
+    "Moschus sp. NYSZ-Bu75": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Moschidae",
+        "Genus": "Moschus",
+        "Synonyms": [],
+        "TaxId": "906840"
+    },
+    "Muntiacus sp. IND7": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Cervidae",
+        "Genus": "Muntiacus",
+        "Synonyms": [],
+        "TaxId": "1954409"
+    },
+    "Bison antiquus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Bovidae",
+        "Genus": "Bison",
+        "Synonyms": [],
+        "TaxId": "304335"
+    },
+    "Neophocaena asiaeorientalis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Phocoenidae",
+        "Genus": "Neophocaena",
+        "Synonyms": [
+            "Neomeris asiaeorientalis",
+            "Neophocaena phocaenoides asiaeorientalis"
+        ],
+        "TaxId": "189058"
+    },
+    "Muntiacus sp. JAV7": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Cervidae",
+        "Genus": "Muntiacus",
+        "Synonyms": [],
+        "TaxId": "1954453"
+    },
+    "Capra walie": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Artiodactyla",
+        "Family": "Bovidae",
+        "Genus": "Capra",
+        "Synonyms": [],
+        "TaxId": "509850"
+    },
+    "Isoodon obesulus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Isoodon",
+        "Synonyms": [
+            "Didelphis obesula"
+        ],
+        "TaxId": "65612"
+    },
+    "Macrotis lagotis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Macrotis",
+        "Synonyms": [
+            "Perameles lagotis"
+        ],
+        "TaxId": "92651"
+    },
+    "Perameles eremiana": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Perameles",
+        "Synonyms": [],
+        "TaxId": "1031274"
+    },
+    "Macrotis leucura": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Macrotis",
+        "Synonyms": [],
+        "TaxId": "2932461"
+    },
+    "Perameles nasuta": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Perameles",
+        "Synonyms": [],
+        "TaxId": "9344"
+    },
+    "Perameles bougainville": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Perameles",
+        "Synonyms": [],
+        "TaxId": "120735"
+    },
+    "Isoodon peninsulae": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Isoodon",
+        "Synonyms": [],
+        "TaxId": "2767847"
+    },
+    "Microperoryctes murina": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peroryctidae",
+        "Genus": "Microperoryctes",
+        "Synonyms": [],
+        "TaxId": "2932462"
+    },
+    "Microperoryctes papuensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peroryctidae",
+        "Genus": "Microperoryctes",
+        "Synonyms": [
+            "Peroyctes papuensis"
+        ],
+        "TaxId": "65613"
+    },
+    "Peroryctes broadbenti": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peroryctidae",
+        "Genus": "Peroryctes",
+        "Synonyms": [
+            "Parameles broadbenti"
+        ],
+        "TaxId": "1031279"
+    },
+    "Echymipera rufescens": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peroryctidae",
+        "Genus": "Echymipera",
+        "Synonyms": [
+            "Perameles rufescens"
+        ],
+        "TaxId": "65611"
+    },
+    "Microperoryctes sp. RWM-2011": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peroryctidae",
+        "Genus": "Microperoryctes",
+        "Synonyms": [],
+        "TaxId": "1093929"
+    },
+    "Rhynchomeles prattorum": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peroryctidae",
+        "Genus": "Rhynchomeles",
+        "Synonyms": [],
+        "TaxId": "1031281"
+    },
+    "Isoodon fusciventer": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Isoodon",
+        "Synonyms": [
+            "Isoodon obesulus fusciventer"
+        ],
+        "TaxId": "120743"
+    },
+    "Isoodon auratus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Isoodon",
+        "Synonyms": [
+            "Perameles auratus"
+        ],
+        "TaxId": "120734"
+    },
+    "Perameles gunnii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peramelidae",
+        "Genus": "Perameles",
+        "Synonyms": [],
+        "TaxId": "37737"
+    },
+    "Echymipera kalubu": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peroryctidae",
+        "Genus": "Echymipera",
+        "Synonyms": [
+            "Perameles kalubu"
+        ],
+        "TaxId": "42733"
+    },
+    "Peroryctes raffrayana": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Peramelemorphia",
+        "Family": "Peroryctidae",
+        "Genus": "Peroryctes",
+        "Synonyms": [
+            "Perameles raffrayana"
+        ],
+        "TaxId": "65628"
+    },
+    "Notoryctes caurinus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Notoryctemorphia",
+        "Family": "Notoryctidae",
+        "Genus": "Notoryctes",
+        "Synonyms": [],
+        "TaxId": "203824"
+    },
+    "Notoryctes typhlops": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Notoryctemorphia",
+        "Family": "Notoryctidae",
+        "Genus": "Notoryctes",
+        "Synonyms": [
+            "Psammoryctes typhlops"
+        ],
+        "TaxId": "37699"
+    },
+    "Notamacropus parma": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Macropodidae",
+        "Genus": "Notamacropus",
+        "Synonyms": [
+            "Macropus parma"
+        ],
+        "TaxId": "413582"
+    },
+    "Thylogale browni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Macropodidae",
+        "Genus": "Thylogale",
+        "Synonyms": [
+            "Halmaturus browni"
+        ],
+        "TaxId": "710129"
+    },
+    "Petaurus sp. MO01": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Petauridae",
+        "Genus": "Petaurus",
+        "Synonyms": [],
+        "TaxId": "2748645"
+    },
+    "Dorcopsis hageni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Macropodidae",
+        "Genus": "Dorcopsis",
+        "Synonyms": [],
+        "TaxId": "926694"
+    },
+    "Phalanger sp. Gorom island": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Phalangeridae",
+        "Genus": "Phalanger",
+        "Synonyms": [],
+        "TaxId": "2938046"
+    },
+    "Spilocuscus maculatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Phalangeridae",
+        "Genus": "Spilocuscus",
+        "Synonyms": [
+            "Phalangista maculata"
+        ],
+        "TaxId": "175810"
+    },
+    "Trichosurus cunninghami": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Phalangeridae",
+        "Genus": "Trichosurus",
+        "Synonyms": [],
+        "TaxId": "637844"
+    },
+    "Pseudochirops albertisii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Pseudocheiridae",
+        "Genus": "Pseudochirops",
+        "Synonyms": [],
+        "TaxId": "699040"
+    },
+    "Thylogale stigmatica": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Macropodidae",
+        "Genus": "Thylogale",
+        "Synonyms": [
+            "Halmaturus stigmaticus"
+        ],
+        "TaxId": "9328"
+    },
+    "Dendrolagus ursinus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Macropodidae",
+        "Genus": "Dendrolagus",
+        "Synonyms": [
+            "Hypsiprymnus ursinus"
+        ],
+        "TaxId": "2219194"
+    },
+    "Lasiorhinus krefftii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Vombatidae",
+        "Genus": "Lasiorhinus",
+        "Synonyms": [
+            "Phascolomys krefftii"
+        ],
+        "TaxId": "30667"
+    },
+    "Trichosurus caninus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Phalangeridae",
+        "Genus": "Trichosurus",
+        "Synonyms": [
+            "Phalangista canina"
+        ],
+        "TaxId": "128432"
+    },
+    "Phalanger sp. Wanggar Nabire island": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Phalangeridae",
+        "Genus": "Phalanger",
+        "Synonyms": [],
+        "TaxId": "2938040"
+    },
+    "Phalanger sp. AMS M16263": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Phalangeridae",
+        "Genus": "Phalanger",
+        "Synonyms": [],
+        "TaxId": "2795619"
+    },
+    "Hemibelideus lemuroides": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Pseudocheiridae",
+        "Genus": "Hemibelideus",
+        "Synonyms": [
+            "Phalangista lemuroides"
+        ],
+        "TaxId": "596256"
+    },
+    "Phalanger sp. Moor Nabire island": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Phalangeridae",
+        "Genus": "Phalanger",
+        "Synonyms": [],
+        "TaxId": "2938042"
+    },
+    "Macropus sp. MG003": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Macropodidae",
+        "Genus": "Macropus",
+        "Synonyms": [],
+        "TaxId": "332474"
+    },
+    "Petaurus notatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Diprotodontia",
+        "Family": "Petauridae",
+        "Genus": "Petaurus",
+        "Synonyms": [],
+        "TaxId": "2748777"
+    },
+    "Planigale sp. PLANMW1189": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Planigale",
+        "Synonyms": [],
+        "TaxId": "1985244"
+    },
+    "Sminthopsis aitkeni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Sminthopsis",
+        "Synonyms": [],
+        "TaxId": "75753"
+    },
+    "Dasyurus viverrinus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Dasyurus",
+        "Synonyms": [
+            "Didelphis viverrinus"
+        ],
+        "TaxId": "9279"
+    },
+    "Antechinus stuartii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Antechinus",
+        "Synonyms": [],
+        "TaxId": "9283"
+    },
+    "Antechinus adustus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Antechinus",
+        "Synonyms": [
+            "Phascogale flavipes adusta"
+        ],
+        "TaxId": "2550877"
+    },
+    "Myoictis wavicus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Myoictis",
+        "Synonyms": [
+            "Myoictis melas wavicus"
+        ],
+        "TaxId": "290591"
+    },
+    "Antechinus argentus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Antechinus",
+        "Synonyms": [],
+        "TaxId": "2550878"
+    },
+    "Phascogale pirata": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Phascogale",
+        "Synonyms": [
+            "Phascogale penicillata pirata"
+        ],
+        "TaxId": "1775600"
+    },
+    "Planigale tenuirostris": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Planigale",
+        "Synonyms": [],
+        "TaxId": "32557"
+    },
+    "Sminthopsis sp. HHAM-2003": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Sminthopsis",
+        "Synonyms": [],
+        "TaxId": "232337"
+    },
+    "Sminthopsis murina": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Sminthopsis",
+        "Synonyms": [
+            "Phascogale murina"
+        ],
+        "TaxId": "32560"
+    },
+    "Ningaui sp. PLANIMW851": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Ningaui",
+        "Synonyms": [],
+        "TaxId": "1985250"
+    },
+    "Dasyurus albopunctatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Dasyurus",
+        "Synonyms": [],
+        "TaxId": "32545"
+    },
+    "Dasycercus blythi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Dasycercus",
+        "Synonyms": [
+            "Phascogale blythi"
+        ],
+        "TaxId": "1981332"
+    },
+    "Myoictis leucura": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Myoictis",
+        "Synonyms": [],
+        "TaxId": "290592"
+    },
+    "Sminthopsis hirtipes": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Sminthopsis",
+        "Synonyms": [],
+        "TaxId": "90760"
+    },
+    "Sminthopsis virginiae": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Sminthopsis",
+        "Synonyms": [
+            "Phascogale virginiae"
+        ],
+        "TaxId": "90767"
+    },
+    "Sminthopsis psammophila": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dasyuromorphia",
+        "Family": "Dasyuridae",
+        "Genus": "Sminthopsis",
+        "Synonyms": [],
+        "TaxId": "90766"
+    },
+    "Dromiciops bozinovici": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Microbiotheria",
+        "Family": "Microbiotheriidae",
+        "Genus": "Dromiciops",
+        "Synonyms": [],
+        "TaxId": "2080854"
+    },
+    "Dromiciops gliroides": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Microbiotheria",
+        "Family": "Microbiotheriidae",
+        "Genus": "Dromiciops",
+        "Synonyms": [
+            "Dromiciops australis"
+        ],
+        "TaxId": "33562"
+    },
+    "Caenolestes sp. 5 JCO-2024a": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "3380531"
+    },
+    "Caenolestes sp. 4 JCO-2024a": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "3380530"
+    },
+    "Caenolestes sp. 3 JCO-2024a": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "3380529"
+    },
+    "Caenolestes sp. 2 JCO-2024a": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "3380528"
+    },
+    "Caenolestes condorensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "3369743"
+    },
+    "Caenolestes sp. IAvH-CT-35595": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "2964410"
+    },
+    "Caenolestes sp. IAvH-CT-35619": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "2964409"
+    },
+    "Caenolestes sp. IAvH-CT-35597": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "2964408"
+    },
+    "Caenolestes sp. IAvH-CT-35596": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "2964407"
+    },
+    "Caenolestes convelatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "1408244"
+    },
+    "Caenolestes sangay": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "1408241"
+    },
+    "Caenolestes caniventer": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [],
+        "TaxId": "473861"
+    },
+    "Lestoros inca": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Lestoros",
+        "Synonyms": [
+            "Orolestes inca"
+        ],
+        "TaxId": "42731"
+    },
+    "Caenolestes fuliginosus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Caenolestes",
+        "Synonyms": [
+            "Hyracodon fuliginosus"
+        ],
+        "TaxId": "37696"
+    },
+    "Rhyncholestes raphanurus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Paucituberculata",
+        "Family": "Caenolestidae",
+        "Genus": "Rhyncholestes",
+        "Synonyms": [],
+        "TaxId": "33559"
+    },
+    "Philander frenatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Philander",
+        "Synonyms": [
+            "Philander frenata",
+            "Philander opossum frenata"
+        ],
+        "TaxId": "225405"
+    },
+    "Chacodelphys formosa": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Chacodelphys",
+        "Synonyms": [
+            "Chacodelphys formosus",
+            "Marmosa formosa"
+        ],
+        "TaxId": "1819355"
+    },
+    "Marmosops paulensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Marmosops",
+        "Synonyms": [
+            "Marmosa incana paulensis"
+        ],
+        "TaxId": "1353429"
+    },
+    "Metachirus sp. FC4896": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Metachirus",
+        "Synonyms": [],
+        "TaxId": "3019948"
+    },
+    "Marmosops sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Marmosops",
+        "Synonyms": [],
+        "TaxId": "3115254"
+    },
+    "Thylamys citellus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Thylamys",
+        "Synonyms": [
+            "Marmosa citella"
+        ],
+        "TaxId": "866634"
+    },
+    "Metachirus sp. TGP33": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Metachirus",
+        "Synonyms": [],
+        "TaxId": "3019959"
+    },
+    "Lestodelphys halli": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Lestodelphys",
+        "Synonyms": [
+            "Notodelphys halli"
+        ],
+        "TaxId": "126292"
+    },
+    "Philander mcilhennyi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Philander",
+        "Synonyms": [],
+        "TaxId": "42729"
+    },
+    "Didelphimorphia sp. BOLD:AAB2803": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "974517"
+    },
+    "Thylamys karimii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Thylamys",
+        "Synonyms": [
+            "Marmosa karimii"
+        ],
+        "TaxId": "476203"
+    },
+    "Marmosa alstoni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Marmosa",
+        "Synonyms": [
+            "Caluromys alstoni",
+            "Micoureus alstoni",
+            "Marmosaalstoni"
+        ],
+        "TaxId": "1202162"
+    },
+    "Micoureus sp. GC-2022": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Marmosa",
+        "Synonyms": [],
+        "TaxId": "2943535"
+    },
+    "Marmosa phaea": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Marmosa",
+        "Synonyms": [],
+        "TaxId": "2747329"
+    },
+    "Didelphimorphia sp. BOLD:AAI0394": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "818327"
+    },
+    "Didelphis aurita": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Didelphis",
+        "Synonyms": [
+            "Didelphys aurita"
+        ],
+        "TaxId": "85694"
+    },
+    "Marmosa lepida": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Marmosa",
+        "Synonyms": [
+            "Didelphys lepida"
+        ],
+        "TaxId": "126294"
+    },
+    "Didelphis sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Didelphimorphia",
+        "Family": "Didelphidae",
+        "Genus": "Didelphis",
+        "Synonyms": [],
+        "TaxId": "30672"
+    },
+    "Galidictis fasciata": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Eupleridae",
+        "Genus": "Galidictis",
+        "Synonyms": [
+            "Viverra fasciata"
+        ],
+        "TaxId": "215636"
+    },
+    "Canis sp. 70-TX-07": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Canidae",
+        "Genus": "Canis",
+        "Synonyms": [],
+        "TaxId": "2714673"
+    },
+    "Procyon environmental sample": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Procyonidae",
+        "Genus": "Procyon",
+        "Synonyms": [],
+        "TaxId": "1002251"
+    },
+    "Prionodon linsang": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Viverridae",
+        "Genus": "Prionodon",
+        "Synonyms": [
+            "Viverra linsang"
+        ],
+        "TaxId": "94194"
+    },
+    "Melogale moschata": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Mustelidae",
+        "Genus": "Melogale",
+        "Synonyms": [
+            "Helictis moschata"
+        ],
+        "TaxId": "204267"
+    },
+    "Mustela eversmannii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Mustelidae",
+        "Genus": "Mustela",
+        "Synonyms": [
+            "Mustela eversmanni"
+        ],
+        "TaxId": "77149"
+    },
+    "Mustela putorius": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Mustelidae",
+        "Genus": "Mustela",
+        "Synonyms": [
+            "Putorius putorius"
+        ],
+        "TaxId": "9668"
+    },
+    "Panthera leo x Panthera tigris": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Felidae",
+        "Genus": "Panthera",
+        "Synonyms": [],
+        "TaxId": "235915"
+    },
+    "Bdeogale nigripes": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Herpestidae",
+        "Genus": "Bdeogale",
+        "Synonyms": [
+            "Crossarchus nigripes"
+        ],
+        "TaxId": "326577"
+    },
+    "Arctocephalus philippii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Otariidae",
+        "Genus": "Arctocephalus",
+        "Synonyms": [],
+        "TaxId": "161927"
+    },
+    "Panthera spelaea": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Felidae",
+        "Genus": "Panthera",
+        "Synonyms": [
+            "Panthera leo spelaea"
+        ],
+        "TaxId": "2770979"
+    },
+    "Mustela nigripes": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Mustelidae",
+        "Genus": "Mustela",
+        "Synonyms": [
+            "Putorius nigripes"
+        ],
+        "TaxId": "77151"
+    },
+    "Carnivora sp. BOLD:AAJ1863": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "816550"
+    },
+    "Meles anakuma": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Mustelidae",
+        "Genus": "Meles",
+        "Synonyms": [
+            "Meles anakuma anakuma",
+            "Meles meles anakuma"
+        ],
+        "TaxId": "191034"
+    },
+    "Martes zibellina": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Mustelidae",
+        "Genus": "Martes",
+        "Synonyms": [
+            "Mustela zibellina",
+            "Zibellina zibellina"
+        ],
+        "TaxId": "36722"
+    },
+    "Procyon lotor": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Procyonidae",
+        "Genus": "Procyon",
+        "Synonyms": [
+            "Ursus lotor"
+        ],
+        "TaxId": "9654"
+    },
+    "Felis catus x Prionailurus bengalensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "Felidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2782171"
+    },
+    "Carnivora sp. BOLD:AAJ7207": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Carnivora",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "816552"
+    },
+    "Cynocephalus sp. DH-2008": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dermoptera",
+        "Family": "Cynocephalidae",
+        "Genus": "Cynocephalus",
+        "Synonyms": [],
+        "TaxId": "531817"
+    },
+    "Galeopterus variegatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dermoptera",
+        "Family": "Cynocephalidae",
+        "Genus": "Galeopterus",
+        "Synonyms": [
+            "Cynocephalus variegatus",
+            "Galeopithecus variegatus"
+        ],
+        "TaxId": "482537"
+    },
+    "Cynocephalus volans": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Dermoptera",
+        "Family": "Cynocephalidae",
+        "Genus": "Cynocephalus",
+        "Synonyms": [
+            "Lemur volans"
+        ],
+        "TaxId": "110931"
+    },
+    "Rhynchocyon sp. CJD-2003": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Rhynchocyon",
+        "Synonyms": [],
+        "TaxId": "237659"
+    },
+    "Elephantulus intufi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Elephantulus",
+        "Synonyms": [
+            "Macroscelides intufi"
+        ],
+        "TaxId": "113276"
+    },
+    "Elephantulus pilicaudus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Elephantulus",
+        "Synonyms": [],
+        "TaxId": "2570161"
+    },
+    "Rhynchocyon stuhlmanni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Rhynchocyon",
+        "Synonyms": [],
+        "TaxId": "3036954"
+    },
+    "Elephantulus rupestris": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Elephantulus",
+        "Synonyms": [
+            "Macroscelides rupestris"
+        ],
+        "TaxId": "113278"
+    },
+    "Macroscelides flavicaudatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Macroscelides",
+        "Synonyms": [
+            "Macroscelides proboscideus flavicaudatus"
+        ],
+        "TaxId": "432356"
+    },
+    "Rhynchocyon chrysopygus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Rhynchocyon",
+        "Synonyms": [],
+        "TaxId": "320636"
+    },
+    "Petrosaltator rozeti": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Petrosaltator",
+        "Synonyms": [
+            "Elephantulus rozeti",
+            "Macroscelides rozeti"
+        ],
+        "TaxId": "237658"
+    },
+    "Elephantulus fuscus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Elephantulus",
+        "Synonyms": [
+            "Macroscelides fuscus"
+        ],
+        "TaxId": "483427"
+    },
+    "Petrodromus tetradactylus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Petrodromus",
+        "Synonyms": [],
+        "TaxId": "113272"
+    },
+    "Rhynchocyon sp. OM2001": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Rhynchocyon",
+        "Synonyms": [],
+        "TaxId": "151031"
+    },
+    "Elephantulus myurus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Elephantulus",
+        "Synonyms": [],
+        "TaxId": "113277"
+    },
+    "Galegeeska revoilii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Galegeeska",
+        "Synonyms": [
+            "Elephantulus revoilii",
+            "Macrocelides revoilii"
+        ],
+        "TaxId": "483428"
+    },
+    "Elephantulus sp. HS451": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Elephantulus",
+        "Synonyms": [],
+        "TaxId": "483508"
+    },
+    "Rhynchocyon udzungwensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Rhynchocyon",
+        "Synonyms": [],
+        "TaxId": "1397287"
+    },
+    "Elephantulus sp. VB001": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Elephantulus",
+        "Synonyms": [],
+        "TaxId": "213657"
+    },
+    "Elephantulus sp. capensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Elephantulus",
+        "Synonyms": [],
+        "TaxId": "403082"
+    },
+    "Rhynchocyon cirnei": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Macroscelidea",
+        "Family": "Macroscelididae",
+        "Genus": "Rhynchocyon",
+        "Synonyms": [
+            "Rhynchocyon cirneii"
+        ],
+        "TaxId": "473867"
+    },
+    "Thomasomys lojapiuranus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "Thomasomys",
+        "Synonyms": [],
+        "TaxId": "2976202"
+    },
+    "Calomys sp. CEG41": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "Calomys",
+        "Synonyms": [],
+        "TaxId": "378673"
+    },
+    "Spermophilus relictus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Sciuridae",
+        "Genus": "Spermophilus",
+        "Synonyms": [
+            "Citellus relictus",
+            "Spermophilus citellus relictus"
+        ],
+        "TaxId": "99856"
+    },
+    "Peromyscus cf. guatemalensis SGP-2014": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "Peromyscus",
+        "Synonyms": [],
+        "TaxId": "1588035"
+    },
+    "Eothenomys sp. BBS16003": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "Eothenomys",
+        "Synonyms": [],
+        "TaxId": "2478457"
+    },
+    "Apomys sp. Mt. Mangibok": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Muridae",
+        "Genus": "Apomys",
+        "Synonyms": [],
+        "TaxId": "2517235"
+    },
+    "Rodentia sp. BOLD:AAB6081": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "854277"
+    },
+    "Prosciurillus weberi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Sciuridae",
+        "Genus": "Prosciurillus",
+        "Synonyms": [
+            "Sciurus weberi"
+        ],
+        "TaxId": "1655510"
+    },
+    "Phyllotini sp. GDE-2012": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1258733"
+    },
+    "Rattus colletti": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Muridae",
+        "Genus": "Rattus",
+        "Synonyms": [
+            "Mus colletti"
+        ],
+        "TaxId": "71422"
+    },
+    "Peromyscus eva": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "Peromyscus",
+        "Synonyms": [],
+        "TaxId": "144756"
+    },
+    "Funisciurus sp. rope_squirrel_19": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Sciuridae",
+        "Genus": "Funisciurus",
+        "Synonyms": [],
+        "TaxId": "2032618"
+    },
+    "Niviventer sp. AEB-2014": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Muridae",
+        "Genus": "Niviventer",
+        "Synonyms": [],
+        "TaxId": "1494610"
+    },
+    "Funisciurus sp. rope_squirrel_18": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Sciuridae",
+        "Genus": "Funisciurus",
+        "Synonyms": [],
+        "TaxId": "2032617"
+    },
+    "Oxymycterus inca": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "Oxymycterus",
+        "Synonyms": [],
+        "TaxId": "511842"
+    },
+    "Eligmodontia moreni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "Eligmodontia",
+        "Synonyms": [],
+        "TaxId": "498182"
+    },
+    "Chinchillula sahamae": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "Chinchillula",
+        "Synonyms": [],
+        "TaxId": "1258722"
+    },
+    "Rhagomys longilingua": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Rodentia",
+        "Family": "Cricetidae",
+        "Genus": "Rhagomys",
+        "Synonyms": [],
+        "TaxId": "329889"
+    },
+    "Ochotona pallasi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Ochotonidae",
+        "Genus": "Ochotona",
+        "Synonyms": [
+            "Ochotona pallasii",
+            "Ogotoma pallasi"
+        ],
+        "TaxId": "130839"
+    },
+    "Ochotona sp. WJ-2016f": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Ochotonidae",
+        "Genus": "Ochotona",
+        "Synonyms": [],
+        "TaxId": "1790054"
+    },
+    "Lepus sp. A5898": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [],
+        "TaxId": "2609115"
+    },
+    "Lepus tibetanus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [],
+        "TaxId": "1701144"
+    },
+    "Lagomorpha sp. BOLD:AAI0878": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "829853"
+    },
+    "Lepus sp. A5858": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [],
+        "TaxId": "2609126"
+    },
+    "Lepus granatensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [],
+        "TaxId": "100182"
+    },
+    "Ochotona collaris": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Ochotonidae",
+        "Genus": "Ochotona",
+        "Synonyms": [
+            "Lagomys collaris"
+        ],
+        "TaxId": "134600"
+    },
+    "Lepus sp. LM0126": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [],
+        "TaxId": "2666273"
+    },
+    "Ochotona gloveri": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Ochotonidae",
+        "Genus": "Ochotona",
+        "Synonyms": [],
+        "TaxId": "174885"
+    },
+    "Lepus microtis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [
+            "Lepus victoriae"
+        ],
+        "TaxId": "1394729"
+    },
+    "Ochotona sp. TS-2022": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Ochotonidae",
+        "Genus": "Ochotona",
+        "Synonyms": [],
+        "TaxId": "2954776"
+    },
+    "Ochotona roylei": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Ochotonidae",
+        "Genus": "Ochotona",
+        "Synonyms": [
+            "Lagomys roylii"
+        ],
+        "TaxId": "130842"
+    },
+    "Lepus saxatilis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [],
+        "TaxId": "63224"
+    },
+    "Lepus sp. LM0241": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [],
+        "TaxId": "2666272"
+    },
+    "Ochotona aff. curzoniae/nubrica 10.13_Han046": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Ochotonidae",
+        "Genus": "Ochotona",
+        "Synonyms": [],
+        "TaxId": "2691960"
+    },
+    "Lepus sp. A5004": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [],
+        "TaxId": "2609119"
+    },
+    "Lepus flavigularis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Lagomorpha",
+        "Family": "Leporidae",
+        "Genus": "Lepus",
+        "Synonyms": [],
+        "TaxId": "430913"
+    },
+    "Manis mysteria": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "3078835"
+    },
+    "Manidae sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "3043966"
+    },
+    "Manis culionensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [
+            "Pholidotus culionensis"
+        ],
+        "TaxId": "1836949"
+    },
+    "Smutsia gigantea": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Smutsia",
+        "Synonyms": [
+            "Manis gigantea"
+        ],
+        "TaxId": "1559511"
+    },
+    "Manis crassicaudata": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "1496684"
+    },
+    "Manis sp. LCT-2010": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "858577"
+    },
+    "Manis sp. DMR-2008": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "497749"
+    },
+    "Phataginus tricuspis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Phataginus",
+        "Synonyms": [
+            "Manis tricuspis"
+        ],
+        "TaxId": "358128"
+    },
+    "Smutsia temminckii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Smutsia",
+        "Synonyms": [
+            "Manis temmincki",
+            "Manis temminckii"
+        ],
+        "TaxId": "302418"
+    },
+    "Manis sp. JG-2003": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "227858"
+    },
+    "Manis sp. KPK-2002.2": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "213500"
+    },
+    "Manis sp. KPK-2002.1": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "213499"
+    },
+    "Manis sp. CP2002": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "189736"
+    },
+    "Manis sp. OM2001": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "151028"
+    },
+    "Manis pentadactyla": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "143292"
+    },
+    "Phataginus tetradactyla": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Phataginus",
+        "Synonyms": [
+            "Manis tetradactyla",
+            "Uromanis tetradactyla"
+        ],
+        "TaxId": "73815"
+    },
+    "Manis sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "49127"
+    },
+    "Manis javanica": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Pholidota",
+        "Family": "Manidae",
+        "Genus": "Manis",
+        "Synonyms": [],
+        "TaxId": "9974"
+    },
+    "Orycteropus sp. squirrelT1421_IC": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Tubulidentata",
+        "Family": "Orycteropodidae",
+        "Genus": "Orycteropus",
+        "Synonyms": [],
+        "TaxId": "2968396"
+    },
+    "Orycteropus afer": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Tubulidentata",
+        "Family": "Orycteropodidae",
+        "Genus": "Orycteropus",
+        "Synonyms": [
+            "Manis afer"
+        ],
+        "TaxId": "9818"
+    },
+    "Dendrohyrax interfluvialis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Hyracoidea",
+        "Family": "Procaviidae",
+        "Genus": "Dendrohyrax",
+        "Synonyms": [],
+        "TaxId": "2872343"
+    },
+    "Hyracoidea sp. BOLD:AAU2359": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Hyracoidea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1068019"
+    },
+    "Dendrohyrax arboreus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Hyracoidea",
+        "Family": "Procaviidae",
+        "Genus": "Dendrohyrax",
+        "Synonyms": [
+            "Dendrohyrax validus"
+        ],
+        "TaxId": "358129"
+    },
+    "Procavia johnstoni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Hyracoidea",
+        "Family": "Procaviidae",
+        "Genus": "Procavia",
+        "Synonyms": [],
+        "TaxId": "132571"
+    },
+    "Heterohyrax brucei": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Hyracoidea",
+        "Family": "Procaviidae",
+        "Genus": "Heterohyrax",
+        "Synonyms": [
+            "Hyrax brucei"
+        ],
+        "TaxId": "77598"
+    },
+    "Dendrohyrax dorsalis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Hyracoidea",
+        "Family": "Procaviidae",
+        "Genus": "Dendrohyrax",
+        "Synonyms": [
+            "Hyrax dorsalis"
+        ],
+        "TaxId": "42325"
+    },
+    "Procavia capensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Hyracoidea",
+        "Family": "Procaviidae",
+        "Genus": "Procavia",
+        "Synonyms": [
+            "Cavia capensis"
+        ],
+        "TaxId": "9813"
+    },
+    "Equus sp. YG150.82": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "330632"
+    },
+    "Equus sp. UA-97-061-221": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "330627"
+    },
+    "Equus sp. AV151": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "2835483"
+    },
+    "Equus dalianensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "2848121"
+    },
+    "Equus cf. hydruntinus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "379505"
+    },
+    "Equus sp. AV191": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "2835492"
+    },
+    "Tapirus pinchaque": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Tapiridae",
+        "Genus": "Tapirus",
+        "Synonyms": [],
+        "TaxId": "30582"
+    },
+    "Equus sp. CAV2": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "157966"
+    },
+    "Rhinoceros unicornis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Rhinocerotidae",
+        "Genus": "Rhinoceros",
+        "Synonyms": [],
+        "TaxId": "9809"
+    },
+    "Hippidion sp. CLV": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Hippidion",
+        "Synonyms": [],
+        "TaxId": "330637"
+    },
+    "Equus sp. AV89": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "2835468"
+    },
+    "Equus sp. AV189": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "2835490"
+    },
+    "Equus ovodovi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [
+            "Sussemionus ovodovi",
+            "Equusovodovi"
+        ],
+        "TaxId": "1225531"
+    },
+    "Equus sp. EK-2021": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "2819869"
+    },
+    "Tapirus bairdii": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Tapiridae",
+        "Genus": "Tapirus",
+        "Synonyms": [
+            "Elasmognathus bairdii"
+        ],
+        "TaxId": "56117"
+    },
+    "Equus asinus asinus x Equus hemionus hemippus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "2715228"
+    },
+    "Tapirus sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Tapiridae",
+        "Genus": "Tapirus",
+        "Synonyms": [],
+        "TaxId": "30583"
+    },
+    "Equus sp. AV160": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Perissodactyla",
+        "Family": "Equidae",
+        "Genus": "Equus",
+        "Synonyms": [],
+        "TaxId": "2835487"
+    },
+    "Loxodonta sp. GS-2022": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [],
+        "TaxId": "2928102"
+    },
+    "Elephas sp. NHMC 20.2.2.1": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Elephas",
+        "Synonyms": [],
+        "TaxId": "363580"
+    },
+    "Loxodonta sp. UCT16419": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [],
+        "TaxId": "2798499"
+    },
+    "Palaeoloxodon sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Palaeoloxodon",
+        "Synonyms": [],
+        "TaxId": "3064006"
+    },
+    "Loxodonta sp. UCT16417": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [],
+        "TaxId": "2798497"
+    },
+    "Mammuthus exilis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Mammuthus",
+        "Synonyms": [],
+        "TaxId": "1851653"
+    },
+    "Loxodonta cyclotis x africana": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [
+            "Loxodonta africana cyclotis x africana"
+        ],
+        "TaxId": "169825"
+    },
+    "Elephantidae gen. sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "9781"
+    },
+    "Mammuthus sp.": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Mammuthus",
+        "Synonyms": [],
+        "TaxId": "1851651"
+    },
+    "Loxodonta cyclotis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [
+            "Elephas cyclotis",
+            "Loxodonta africana cyclotis"
+        ],
+        "TaxId": "99490"
+    },
+    "Loxodonta sp. UCT18744": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [],
+        "TaxId": "2798501"
+    },
+    "Loxodonta sp. UCT16400": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [],
+        "TaxId": "2798486"
+    },
+    "Loxodonta sp. UCT16421": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [],
+        "TaxId": "2798493"
+    },
+    "Notiomastodon platensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Gomphotheriidae",
+        "Genus": "Notiomastodon",
+        "Synonyms": [],
+        "TaxId": "2885232"
+    },
+    "Loxodonta sp. UCT16428": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [],
+        "TaxId": "2798500"
+    },
+    "Mammuthus sp. KRESTOVKA": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Mammuthus",
+        "Synonyms": [],
+        "TaxId": "2805093"
+    },
+    "Loxodonta sp. UCT16396": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [],
+        "TaxId": "2798487"
+    },
+    "Loxodonta sp. UCT16401": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Proboscidea",
+        "Family": "Elephantidae",
+        "Genus": "Loxodonta",
+        "Synonyms": [],
+        "TaxId": "2798488"
+    },
+    "Sirenia sp. BOLD:AAH8089": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Sirenia",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "976661"
+    },
+    "Trichechus senegalensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Sirenia",
+        "Family": "Trichechidae",
+        "Genus": "Trichechus",
+        "Synonyms": [],
+        "TaxId": "327957"
+    },
+    "Hydrodamalis gigas": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Sirenia",
+        "Family": "Dugongidae",
+        "Genus": "Hydrodamalis",
+        "Synonyms": [
+            "Manati gigas"
+        ],
+        "TaxId": "63631"
+    },
+    "Dugong dugon": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Sirenia",
+        "Family": "Dugongidae",
+        "Genus": "Dugong",
+        "Synonyms": [
+            "Trichechus dugon"
+        ],
+        "TaxId": "29137"
+    },
+    "Trichechus manatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Sirenia",
+        "Family": "Trichechidae",
+        "Genus": "Trichechus",
+        "Synonyms": [],
+        "TaxId": "9778"
+    },
+    "Trichechus inunguis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Sirenia",
+        "Family": "Trichechidae",
+        "Genus": "Trichechus",
+        "Synonyms": [
+            "Manatus inunguis"
+        ],
+        "TaxId": "9777"
+    },
+    "Saguinus sp. CN274": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Cebidae",
+        "Genus": "Saguinus",
+        "Synonyms": [],
+        "TaxId": "2952761"
+    },
+    "Callimico sp. MAS-2011": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Cebidae",
+        "Genus": "Callimico",
+        "Synonyms": [],
+        "TaxId": "1090914"
+    },
+    "Callithrix sp. 3 JM-2020": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Cebidae",
+        "Genus": "Callithrix",
+        "Synonyms": [],
+        "TaxId": "2765888"
+    },
+    "Aotus azarai": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Aotidae",
+        "Genus": "Aotus",
+        "Synonyms": [
+            "Aotus azarae",
+            "Simia azarai"
+        ],
+        "TaxId": "30591"
+    },
+    "Pygathrix cinerea 1 RL-2012": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Cercopithecidae",
+        "Genus": "Pygathrix",
+        "Synonyms": [],
+        "TaxId": "1194332"
+    },
+    "Aotus sp. LC-2012": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Aotidae",
+        "Genus": "Aotus",
+        "Synonyms": [],
+        "TaxId": "1230482"
+    },
+    "Mico saterei": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Cebidae",
+        "Genus": "Mico",
+        "Synonyms": [
+            "Callithrix saterei"
+        ],
+        "TaxId": "198702"
+    },
+    "Ateles sp. haplotype Abh9": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Atelidae",
+        "Genus": "Ateles",
+        "Synonyms": [],
+        "TaxId": "119628"
+    },
+    "Hylobates sp. KM-2020": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Hylobatidae",
+        "Genus": "Hylobates",
+        "Synonyms": [],
+        "TaxId": "2768846"
+    },
+    "Microcebus sambiranensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Cheirogaleidae",
+        "Genus": "Microcebus",
+        "Synonyms": [],
+        "TaxId": "143353"
+    },
+    "Erythrocebus patas": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Cercopithecidae",
+        "Genus": "Erythrocebus",
+        "Synonyms": [
+            "Cercopithecus patas",
+            "Simia patas"
+        ],
+        "TaxId": "9538"
+    },
+    "Cacajao rubicundus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Pitheciidae",
+        "Genus": "Cacajao",
+        "Synonyms": [],
+        "TaxId": "70927"
+    },
+    "Lepilemur ankaranensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Lepilemuridae",
+        "Genus": "Lepilemur",
+        "Synonyms": [
+            "Lepilemur septentrionalis ankaranensis"
+        ],
+        "TaxId": "342401"
+    },
+    "Pithecia pissinatti": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Pitheciidae",
+        "Genus": "Pithecia",
+        "Synonyms": [],
+        "TaxId": "2946518"
+    },
+    "Paragalago cocos": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Galagidae",
+        "Genus": "Paragalago",
+        "Synonyms": [
+            "Galago moholi cocos"
+        ],
+        "TaxId": "2604442"
+    },
+    "Macaca sylvanus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Cercopithecidae",
+        "Genus": "Macaca",
+        "Synonyms": [
+            "Simia sylvanus"
+        ],
+        "TaxId": "9546"
+    },
+    "Cercocebus torquatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Cercopithecidae",
+        "Genus": "Cercocebus",
+        "Synonyms": [
+            "Simia torquata"
+        ],
+        "TaxId": "9530"
+    },
+    "Lepilemur betsileo": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Primates",
+        "Family": "Lepilemuridae",
+        "Genus": "Lepilemur",
+        "Synonyms": [],
+        "TaxId": "886958"
+    },
+    "Phyllonycteris poeyi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Phyllostomidae",
+        "Genus": "Phyllonycteris",
+        "Synonyms": [
+            "Phyllonycteris soeyi"
+        ],
+        "TaxId": "270774"
+    },
+    "Miniopterus cf. arenarius VG-2013": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Miniopteridae",
+        "Genus": "Miniopterus",
+        "Synonyms": [],
+        "TaxId": "1286219"
+    },
+    "Macrotus californicus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Phyllostomidae",
+        "Genus": "Macrotus",
+        "Synonyms": [],
+        "TaxId": "9419"
+    },
+    "Molossus sp. Santa Fe190": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Molossidae",
+        "Genus": "Molossus",
+        "Synonyms": [],
+        "TaxId": "2801929"
+    },
+    "Rhinolophus landeri": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Rhinolophidae",
+        "Genus": "Rhinolophus",
+        "Synonyms": [],
+        "TaxId": "519039"
+    },
+    "Myotis sp. 1145/20_SP": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Vespertilionidae",
+        "Genus": "Myotis",
+        "Synonyms": [],
+        "TaxId": "2926355"
+    },
+    "Nyctimene vizcaccia": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Pteropodidae",
+        "Genus": "Nyctimene",
+        "Synonyms": [],
+        "TaxId": "170211"
+    },
+    "Chiroptera sp. B1398": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2792178"
+    },
+    "Chiroptera sp. BOLD:AAM4700": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "915936"
+    },
+    "Natalus tumidirostris": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Natalidae",
+        "Genus": "Natalus",
+        "Synonyms": [],
+        "TaxId": "59487"
+    },
+    "Myotis cf. davidii ZMB Mam 108356": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Vespertilionidae",
+        "Genus": "Myotis",
+        "Synonyms": [
+            "Myotis cf. davidii ZMB_Mam_108356"
+        ],
+        "TaxId": "2742347"
+    },
+    "Hipposideros sp. 1 LEP-2013": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Hipposideridae",
+        "Genus": "Hipposideros",
+        "Synonyms": [],
+        "TaxId": "1391745"
+    },
+    "Mormoops megalophylla": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Mormoopidae",
+        "Genus": "Mormoops",
+        "Synonyms": [
+            "Mormops megalophylla"
+        ],
+        "TaxId": "59460"
+    },
+    "Neoeptesicus innoxius": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Vespertilionidae",
+        "Genus": "Neoeptesicus",
+        "Synonyms": [
+            "Eptesicus innoxius",
+            "Vespertilio innoxius"
+        ],
+        "TaxId": "3371124"
+    },
+    "Myotis armiensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Vespertilionidae",
+        "Genus": "Myotis",
+        "Synonyms": [],
+        "TaxId": "2785030"
+    },
+    "Anoura cadenai": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Phyllostomidae",
+        "Genus": "Anoura",
+        "Synonyms": [],
+        "TaxId": "2563022"
+    },
+    "Myotis frater": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Chiroptera",
+        "Family": "Vespertilionidae",
+        "Genus": "Myotis",
+        "Synonyms": [],
+        "TaxId": "187012"
+    },
+    "Tupaia nicobarica": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "320358"
+    },
+    "Tupaia dorsalis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "320341"
+    },
+    "Urogale everetti": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Urogale",
+        "Synonyms": [
+            "Tupaia everetti"
+        ],
+        "TaxId": "192726"
+    },
+    "Dendrogale melanura": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Dendrogale",
+        "Synonyms": [
+            "Tupaia melanura"
+        ],
+        "TaxId": "246553"
+    },
+    "Tupaia montana": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "1035795"
+    },
+    "Tupaia sp. P. Deininger": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "358132"
+    },
+    "Tupaia gracilis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "320342"
+    },
+    "Tupaia tana": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "70687"
+    },
+    "Dendrogale murina": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Dendrogale",
+        "Synonyms": [
+            "Hylogalea murina"
+        ],
+        "TaxId": "284669"
+    },
+    "Tupaia belangeri": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [
+            "Cladobates belangeri",
+            "Tupaia glis belangeri"
+        ],
+        "TaxId": "37347"
+    },
+    "Tupaia chinensis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [
+            "Tupaia belangeri chinensis"
+        ],
+        "TaxId": "246437"
+    },
+    "Tupaia glis": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [
+            "Sorex glis"
+        ],
+        "TaxId": "9395"
+    },
+    "Tupaia moellendorffi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "1035794"
+    },
+    "Tupaia chrysogaster": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "1035793"
+    },
+    "Tupaia minor": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "143289"
+    },
+    "Tupaia splendidula": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Tupaia",
+        "Synonyms": [],
+        "TaxId": "320362"
+    },
+    "Anathana ellioti": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Scandentia",
+        "Family": "Tupaiidae",
+        "Genus": "Anathana",
+        "Synonyms": [
+            "Tupaia ellioti"
+        ],
+        "TaxId": "320340"
+    },
+    "Crocidura maurisca": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Crocidura",
+        "Synonyms": [],
+        "TaxId": "214447"
+    },
+    "Podogymnura aureospinula": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Erinaceidae",
+        "Genus": "Podogymnura",
+        "Synonyms": [],
+        "TaxId": "2995527"
+    },
+    "Euroscaptor sp. 2 TE-2021": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Talpidae",
+        "Genus": "Euroscaptor",
+        "Synonyms": [],
+        "TaxId": "2835211"
+    },
+    "Insectivora sp. BOLD:AAE3121": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [
+            "Soricomorpha sp. BOLD:AAE3121"
+        ],
+        "TaxId": "854697"
+    },
+    "Sylvisorex granti": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Sylvisorex",
+        "Synonyms": [],
+        "TaxId": "307107"
+    },
+    "Talpa ognevi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Talpidae",
+        "Genus": "Talpa",
+        "Synonyms": [],
+        "TaxId": "3128909"
+    },
+    "Crocidura sp. SSWM-2009a": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Crocidura",
+        "Synonyms": [],
+        "TaxId": "656109"
+    },
+    "Crocidura voi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Crocidura",
+        "Synonyms": [],
+        "TaxId": "516710"
+    },
+    "Sorex alpinus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Sorex",
+        "Synonyms": [],
+        "TaxId": "62902"
+    },
+    "Crocidura sp. ETH6122": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Crocidura",
+        "Synonyms": [],
+        "TaxId": "2768150"
+    },
+    "Sorex cansulus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Sorex",
+        "Synonyms": [],
+        "TaxId": "2491182"
+    },
+    "Crocidura lea": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Crocidura",
+        "Synonyms": [],
+        "TaxId": "61091"
+    },
+    "Chimarrogale styani": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Chimarrogale",
+        "Synonyms": [],
+        "TaxId": "1365920"
+    },
+    "Cryptotis obscurus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Cryptotis",
+        "Synonyms": [
+            "Blarina obscura",
+            "Cryptotis obscura"
+        ],
+        "TaxId": "1425345"
+    },
+    "Crocidura sp. DPL-2017": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Soricidae",
+        "Genus": "Crocidura",
+        "Synonyms": [],
+        "TaxId": "2448867"
+    },
+    "Atelerix sp. isolate 6647 CF-2019": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Erinaceidae",
+        "Genus": "Atelerix",
+        "Synonyms": [],
+        "TaxId": "2547259"
+    },
+    "Uropsilus aequodonenia": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Eulipotyphla",
+        "Family": "Talpidae",
+        "Genus": "Uropsilus",
+        "Synonyms": [
+            "Uropsilus aequodonensis"
+        ],
+        "TaxId": "1171130"
+    },
+    "Zaglossus bartoni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Monotremata",
+        "Family": "Tachyglossidae",
+        "Genus": "Zaglossus",
+        "Synonyms": [
+            "Acanthoglossus bruijnii bartoni"
+        ],
+        "TaxId": "1684342"
+    },
+    "Zaglossus attenboroughi": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Monotremata",
+        "Family": "Tachyglossidae",
+        "Genus": "Zaglossus",
+        "Synonyms": [],
+        "TaxId": "1684341"
+    },
+    "Zaglossus bruijni": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Monotremata",
+        "Family": "Tachyglossidae",
+        "Genus": "Zaglossus",
+        "Synonyms": [
+            "Tachyglossus Bruijnii"
+        ],
+        "TaxId": "33543"
+    },
+    "Tachyglossus aculeatus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Monotremata",
+        "Family": "Tachyglossidae",
+        "Genus": "Tachyglossus",
+        "Synonyms": [
+            "Myrmecophaga aculeata"
+        ],
+        "TaxId": "9261"
+    },
+    "Ornithorhynchus anatinus": {
+        "Phylum": "Chordata",
+        "Class": "Mammalia",
+        "Order": "Monotremata",
+        "Family": "Ornithorhynchidae",
+        "Genus": "Ornithorhynchus",
+        "Synonyms": [
+            "Platypus anatinus"
+        ],
+        "TaxId": "9258"
+    }
+}

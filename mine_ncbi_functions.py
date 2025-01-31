@@ -53,18 +53,19 @@ def ncbi_fetch(email, term, ncbi_db="nuccore", rettype="gb", format="genbank"):
   q_list = record_full["IdList"]
 
 # create a list for all the entries fetched from NCBI
-  NCBI_seq =[]
+  SeqRecords =[]
   for x in q_list:
     # fetch result from previous search
     fet = Entrez.efetch(db=ncbi_db, id=x, rettype=rettype)
     seq = SeqIO.read(fet, format)
+    #print(seq)
     fet.close()
     
-    NCBI_seq.append(seq)
+    SeqRecords.append(seq)
 
-    time.sleep(0.25)
+    time.sleep(0.25)  # Rate limiting
   
-  return NCBI_seq
+  return SeqRecords
 
 from pygbif import species
 def correct_species_name(species_name):
@@ -434,11 +435,15 @@ def ncbi_query_to_df(query_list, species_list, species_taxon_dict, email):
             else:
                 Sp_syn_used.append('NA')
 
-            dna_seq = ""
-            try:
-                dna_seq = seq.seq
-            except:
-                pass
+            if seq.seq:
+                try:
+                    #print(f'This is the DNA sequence: {seq.seq}')
+                    dna_seq = seq.seq
+                except:
+                    dna_seq = ""
+            else:
+                dna_seq = ""
+                
             pro_seq = ""
             # get and append protein sequence
             if seq.features:
@@ -561,7 +566,7 @@ def ncbi_mine_seq_data(email, job_label='unnamed', out='unnamed', species_list=N
     # List to append query responses to
     query_list = []
     # make a progress bar for tracking query progression. Based on length of the species list
-    print('Starting Queries to NCBI for Opsin Sequences\n')
+    print('Starting Queries to NCBI for DNA/Protein Sequences\n')
     i=0
     with progressbar.ProgressBar(max_value=len(species_list),style='BouncingBar') as bar:
         for species in species_list:
@@ -573,7 +578,7 @@ def ncbi_mine_seq_data(email, job_label='unnamed', out='unnamed', species_list=N
               
             if len(species_taxon_dict[species]['Synonyms']) > 0:
                 sp_for_query = f'("{species}"[Organism] OR "{species}"[Title]'
-                if len(temp) == 3:
+                if (len(temp) == 3) and ('(' not in species) and ('.' not in species):
                     sp_for_query+= f' OR "{temp[0]} {temp[1]}"[Organism] OR "{temp[0]} {temp[1]}"[Title]'
                     sp_for_query+= f' OR "{temp[0]} {temp[2]}"[Organism]  OR "{temp[0]} {temp[2]}"[Title]'
                     for syn in species_taxon_dict[species]['Synonyms']:
@@ -586,7 +591,7 @@ def ncbi_mine_seq_data(email, job_label='unnamed', out='unnamed', species_list=N
                             sp_for_query+= f' OR "{syn}"[Organism] OR {syn}"[Title]'
                             sp_for_query+=')'
                             
-            elif len(temp) == 3:
+            elif (len(temp) == 3) and ('(' not in species) and ('.' not in species):
                 sp_for_query = f'("{species}"[Organism]'
                 sp_for_query+= f' OR "{temp[0]} {temp[1]}"[Organism] OR "{temp[0]} {temp[1]}"[Title]'
                 sp_for_query+= f' OR "{temp[0]} {temp[2]}"[Organism] OR "{temp[0]} {temp[2]}"[Title]'
@@ -594,7 +599,7 @@ def ncbi_mine_seq_data(email, job_label='unnamed', out='unnamed', species_list=N
                 
             else:
                 sp_for_query = f'"{species}"[Organism]'
-            #print(sp_for_query)
+            #print(f"{sp_for_query} AND {query}")
             queried = False
             for x in range(50):
                 if queried == False:
@@ -635,7 +640,7 @@ def ncbi_mine_seq_data(email, job_label='unnamed', out='unnamed', species_list=N
     sp_no_hits  = list(set(species_list).symmetric_difference(intersection))
     #len(sp_no_hits)
     if len(sp_no_hits) > 0:
-        print('Saving txt file with names of species that retrieved no results for opsins...\n')
+        print('Saving txt file with names of species that retrieved no results...\n')
         no_sp_hits_file = f'{report_dir}/species_w_no_hits.txt'
         with open(no_sp_hits_file, 'w') as f:
             for sp in sp_no_hits:
@@ -643,7 +648,7 @@ def ncbi_mine_seq_data(email, job_label='unnamed', out='unnamed', species_list=N
     
     sp_rnd_hits  = list(set(ncbi_sp_hits).symmetric_difference(intersection))
     if len(sp_rnd_hits) > 0:
-        print('Saving txt file with names of species that retrieved results for opsins but are NOT in submitted species list...\n')
+        print('Saving txt file with names of species that retrieved results but are NOT in submitted species list...\n')
         #len(sp_rnd_hits)
         rnd_sp_hits_file = f'{report_dir}/potential_species_hits.txt'
         with open(rnd_sp_hits_file, 'w') as f:
@@ -655,7 +660,7 @@ def ncbi_mine_seq_data(email, job_label='unnamed', out='unnamed', species_list=N
         #ncbi_query_df_potential_hits.shape
         print('Saving and returning cleaned dataframe with only species entries from species list...\n')
         ncbi_query_df_cleaned.to_csv(path_or_buf=f'{report_dir}/mnm_on_all_dbs_ncbi_q_data_cleaned.csv', index=False)
-        print('Saving another dataframe with species that retrieved results for opsins but are NOT in submitted species list for further examination...\n')
+        print('Saving another dataframe with species that retrieved results but are NOT in submitted species list for further examination...\n')
         ncbi_query_df_potential_hits.to_csv(path_or_buf=f'{report_dir}/mnm_on_all_dbs_ncbi_q_potential_hits.csv', index=False)
         
         fasta_file = f'{report_dir}/mined_{out.replace(" ","_")}_seqs_cleaned.fasta'
