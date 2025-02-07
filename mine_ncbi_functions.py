@@ -437,8 +437,10 @@ def ncbi_query_to_df(query_list, species_list, species_taxon_dict, email):
 
             if seq.seq:
                 try:
-                    #print(f'This is the DNA sequence: {seq.seq}')
-                    dna_seq = seq.seq
+                    if len(str(seq.seq)) < 10000:
+                        dna_seq = str(seq.seq).strip().replace('\n','').replace(',','').replace('\t','')
+                    else:
+                        dna_seq = ""
                 except:
                     dna_seq = ""
             else:
@@ -459,8 +461,17 @@ def ncbi_query_to_df(query_list, species_list, species_taxon_dict, email):
             full_sp_names.append(str(g_s_name[0]) + ' ' + str(g_s_name[1]))
             gene_des.append(str(seq.description))
             version.append(str(seq.id))
-            dna.append(str(dna_seq))
-            Protein.append(str(pro_seq))
+            try:
+                dna.append(str(dna_seq))
+            except:
+                print(f'DNA-Seq for {seq.id} is undefined...\n')
+                dna.append('')
+            try:
+                Protein.append(str(pro_seq))
+            except:
+                print(f'Protein-Seq for {seq.id} is undefined...\n')
+                Protein.append('')
+
             
     # create a dataframe for the information
     ncbi_q_df = pd.DataFrame(
