@@ -160,11 +160,16 @@ def get_species_taxonomy(species_name, email, record_alt=False, use_higher_taxa=
                 record = Entrez.read(handle)[0]
                 #if the code makes it this far, then there was a successful query
                 queried = True
+                
+                taxonomy["TaxId"] = record["TaxId"]
+                if species_name != record["ScientificName"]:
+                    synonyms.append(record["ScientificName"])
+                
                 #print(record)
                 # Extract synonyms
                 if ("OtherNames" in record) and (use_higher_taxa == False):
                     for name in record["OtherNames"]["Synonym"]:
-                        if name not in synonyms:
+                        if name not in synonyms and name != species_name:
                             if '(' in name:
                                 if ',' in name:
                                     rename = name.split('(')[0].strip()
@@ -1021,3 +1026,81 @@ def ncbi_fetch_species(email, report_dir='taxonomy_data', out='species_data', ta
     except Exception as e:
         print(f"An error occurred: {e}")
         return {}
+
+import argparse
+def main():
+    """Parses command line arguments and calls ncbi_mine_seq_data."""
+
+    parser = argparse.ArgumentParser(description="Mine NCBI for sequence data.")
+    parser.add_argument("-e", "--email", required=True, help="Your email address for NCBI Entrez.")
+    parser.add_argument("-j", "--job_label", default="unnamed", help="A label for the job (default: unnamed).")
+    parser.add_argument("-o", "--out", default="unnamed",
+                        help="Output file name prefix (default: unnamed, which defaults to job_label).")
+    parser.add_argument("-q", "--query_file", required=True,
+                        help="Path to a text file containing the NCBI search query.")
+    parser.add_argument("-t", "--taxa_dictionary",
+                        help="Path to a JSON file with a taxonomic dictionary.")
+
+    args = parser.parse_args()
+
+    # Handle the case where 'out' is 'unnamed'
+    output_prefix = args.out
+    if output_prefix == "unnamed":
+        output_prefix = args.job_label
+
+    # --- Input Handling and Validation ---
+    # check for email
+    if not args.email:
+        parser.error("Please provide an email address with -e or --email.")
+
+    # Load query from file
+    if not args.query_file or not os.path.exists(args.query_file):
+        parser.error("Please provide a valid path to a query file with -q or --query_file.")
+    try:
+        with open(args.query_file, 'r') as f:
+            query = f.read().strip()  # Read the query and remove leading/trailing whitespace
+    except Exception as e:
+        parser.error(f"Error reading query file: {e}")
+
+    if not query:
+        parser.error("Query file is empty.")
+
+    # Handle loading taxa_dictionary if provided (same as before)
+    taxa_dict = None
+    if args.taxa_dictionary:
+        if os.path.isfile(args.taxa_dictionary):  # its a file
+            try:
+                with open(args.taxa_dictionary, 'r') as f:
+                    taxa_dict = json.load(f)
+            except json.JSONDecodeError:
+                parser.error("Error decoding JSON from the provided taxa_dictionary file.")
+        else:  # its a string representation of a dictionary
+            try:
+                taxa_dict = json.loads(args.taxa_dictionary)
+            except json.JSONDecodeError:
+                parser.error("Could not decode dictionary string passed to taxa_dictionary")
+
+    # Handle species_list (get keys from taxa_dict if necessary)
+    species_list = args.species_list
+    if species_list is None:
+        species_list = list(taxa_dict.keys())
+
+    # --- Main Function Call ---
+    try:
+        mnm_df, report_dir = ncbi_mine_seq_data(
+            email=args.email,
+            job_label=args.job_label,
+            out=output_prefix,
+            species_list=species_list,
+            query=query,  # Pass the loaded query
+            taxa_dictionary=taxa_dict
+        )
+
+        print(f"Job completed. Results saved in: {report_dir}")
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+
+if __name__ == "__main__":
+    main()
