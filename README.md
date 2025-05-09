@@ -84,4 +84,4 @@ Contact information for author questions or feedback.
 ---
 ## License
 
-All data and code is covered under a GNU General Public License (GPL)(Version 3), in accordance with Open Source Initiative (OSI)-policies
+All data and code is covered under a CC0-1.0 License, in accordance with Open Source Initiative (OSI)-policies
