@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "mined_ncbi_mammalia_opsins_seqs",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "mnm_data/mnm_on_ncbi_mammalia_opsins_2025-05-20_17-00-42\\mined_ncbi_mammalia_opsins_seqs.fasta",
+  "number-of-letters": 2058,
+  "number-of-sequences": 5,
+  "last-updated": "2025-05-20T17:12:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1002785,
+  "bytes-to-cache": 2308,
+  "files": [
+    "mined_ncbi_mammalia_opsins_seqs.pdb",
+    "mined_ncbi_mammalia_opsins_seqs.phr",
+    "mined_ncbi_mammalia_opsins_seqs.pin",
+    "mined_ncbi_mammalia_opsins_seqs.pot",
+    "mined_ncbi_mammalia_opsins_seqs.psq",
+    "mined_ncbi_mammalia_opsins_seqs.ptf",
+    "mined_ncbi_mammalia_opsins_seqs.pto"
+  ]
+}
