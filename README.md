@@ -74,6 +74,14 @@ The core functionality of this package revolves around fetching sequence data (b
 
 Contributions to this project are welcome. Please feel free to submit pull requests or open issues on the GitHub repository.
 
+## Contact
+Contact information for author questions or feedback.
+    
+**Seth A. Frazer** - [ORCID ID](https://orcid.org/0000-0002-3800-212X)
+
+    sethfrazer@ucsb.edu
+    
+---
 ## License
 
-All data and code is covered under a GNU General Public License (GPL)(Version 3), in accordance with Open Source Initiative (OSI)-policies
+All data and code is covered under a CC0-1.0 License, in accordance with Open Source Initiative (OSI)-policies
