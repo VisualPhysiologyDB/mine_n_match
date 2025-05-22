@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "mined_ncbi_malacostraca_opsins_seqs",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "mnm_data/mnm_on_ncbi_malacostraca_opsins_2025-05-22_11-08-00\\mined_ncbi_malacostraca_opsins_seqs.fasta",
+  "number-of-letters": 11716,
+  "number-of-sequences": 31,
+  "last-updated": "2025-05-22T11:17:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1014979,
+  "bytes-to-cache": 12208,
+  "files": [
+    "mined_ncbi_malacostraca_opsins_seqs.pdb",
+    "mined_ncbi_malacostraca_opsins_seqs.phr",
+    "mined_ncbi_malacostraca_opsins_seqs.pin",
+    "mined_ncbi_malacostraca_opsins_seqs.pot",
+    "mined_ncbi_malacostraca_opsins_seqs.psq",
+    "mined_ncbi_malacostraca_opsins_seqs.ptf",
+    "mined_ncbi_malacostraca_opsins_seqs.pto"
+  ]
+}

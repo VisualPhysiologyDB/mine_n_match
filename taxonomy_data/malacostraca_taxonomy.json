@@ -1,0 +1,3416 @@
+{
+    "Ingolfiella tabularis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Ingolfiellida",
+        "Family": "Ingolfiellidae",
+        "Genus": "Ingolfiella",
+        "Synonyms": [],
+        "TaxId": "371528"
+    },
+    "Halosbaena sp. PH Page-2009": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "3399910"
+    },
+    "Halosbaena sp. Biologic-THER003": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "3399909"
+    },
+    "Halosbaena sp. Biologic-THER001": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "3399908"
+    },
+    "Tulumella sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Tulumellidae",
+        "Genus": "Tulumella",
+        "Synonyms": [],
+        "TaxId": "3367325"
+    },
+    "Thermosbaenacea sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "3142613"
+    },
+    "Tethysbaena relicta": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [
+            "Monodella relicta"
+        ],
+        "TaxId": "3056942"
+    },
+    "Tethysbaena ophelicola": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [],
+        "TaxId": "3056941"
+    },
+    "Halosbaena sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "3022760"
+    },
+    "Tethysbaena ledoyeri": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [],
+        "TaxId": "2754491"
+    },
+    "Tulumella unidens": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Tulumellidae",
+        "Genus": "Tulumella",
+        "Synonyms": [],
+        "TaxId": "2584745"
+    },
+    "Halosbaena tulki": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "1904766"
+    },
+    "Halosbaena sp. PL": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "1904765"
+    },
+    "Halosbaena sp. PH": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "1904764"
+    },
+    "Halosbaena sp. CRE": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "1904763"
+    },
+    "Halosbaena sp. CI": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "1904762"
+    },
+    "Halosbaena sp. BI": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "1904761"
+    },
+    "Halosbaena fortunata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "1904760"
+    },
+    "Halosbaena daitoensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Halosbaenidae",
+        "Genus": "Halosbaena",
+        "Synonyms": [],
+        "TaxId": "1904759"
+    },
+    "Tethysbaena sp. 6 JP-2015": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [],
+        "TaxId": "1748387"
+    },
+    "Tethysbaena sp. 5 JP-2015": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [],
+        "TaxId": "1748386"
+    },
+    "Tethysbaena sp. 4 JP-2015": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [],
+        "TaxId": "1748385"
+    },
+    "Tethysbaena atlantomaroccana": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [
+            "Monodella atlantomaroccana"
+        ],
+        "TaxId": "1748384"
+    },
+    "Tethysbaena sp. 3 JP-2015": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [],
+        "TaxId": "1748383"
+    },
+    "Tethysbaena sp. 2 JP-2015": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [],
+        "TaxId": "1748382"
+    },
+    "Tethysbaena sp. 1 JP-2015": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [],
+        "TaxId": "1748381"
+    },
+    "Tethysbaena argentarii": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [
+            "Monodella argentarii"
+        ],
+        "TaxId": "314072"
+    },
+    "Tethysbaena scabra": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Thermosbaenacea",
+        "Family": "Monodellidae",
+        "Genus": "Tethysbaena",
+        "Synonyms": [
+            "Monodella scabra"
+        ],
+        "TaxId": "203899"
+    },
+    "Mangkurtu sp. BSPE002-DNA": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Spelaeogriphacea",
+        "Family": "Spelaeogriphidae",
+        "Genus": "Mangkurtu",
+        "Synonyms": [],
+        "TaxId": "3229074"
+    },
+    "Spelaeogriphus lepidops": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Spelaeogriphacea",
+        "Family": "Spelaeogriphidae",
+        "Genus": "Spelaeogriphus",
+        "Synonyms": [],
+        "TaxId": "314071"
+    },
+    "Eucopia sp. stet. JMQ-2024a": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Eucopiidae",
+        "Genus": "Eucopia",
+        "Synonyms": [],
+        "TaxId": "3382038"
+    },
+    "Neognathophausia cf. gigas": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Lophogastridae",
+        "Genus": "Neognathophausia",
+        "Synonyms": [],
+        "TaxId": "3379874"
+    },
+    "Neognathophausia sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Lophogastridae",
+        "Genus": "Neognathophausia",
+        "Synonyms": [],
+        "TaxId": "3108705"
+    },
+    "Gnathophausia sp. USNM IZ 1230748": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Lophogastridae",
+        "Genus": "Gnathophausia",
+        "Synonyms": [],
+        "TaxId": "2871328"
+    },
+    "Gnathophausia sp. USNM IZ 1230473": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Lophogastridae",
+        "Genus": "Gnathophausia",
+        "Synonyms": [],
+        "TaxId": "2871291"
+    },
+    "Eucopia sp. 70 CWD-2021": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Eucopiidae",
+        "Genus": "Eucopia",
+        "Synonyms": [],
+        "TaxId": "2841625"
+    },
+    "Eucopia sp. 69 CWD-2021": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Eucopiidae",
+        "Genus": "Eucopia",
+        "Synonyms": [],
+        "TaxId": "2841624"
+    },
+    "Eucopia sp. 68 CWD-2021": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Eucopiidae",
+        "Genus": "Eucopia",
+        "Synonyms": [],
+        "TaxId": "2841623"
+    },
+    "Eucopia unguiculata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Eucopiidae",
+        "Genus": "Eucopia",
+        "Synonyms": [
+            "Chalaraspis unguiculata"
+        ],
+        "TaxId": "2527840"
+    },
+    "Eucopia australis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Eucopiidae",
+        "Genus": "Eucopia",
+        "Synonyms": [],
+        "TaxId": "2527839"
+    },
+    "Fagegnathophausia gracilis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Gnathophausiidae",
+        "Genus": "Fagegnathophausia",
+        "Synonyms": [
+            "Gnathophausia gracilis"
+        ],
+        "TaxId": "2283573"
+    },
+    "Eucopia grimaldii": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Eucopiidae",
+        "Genus": "Eucopia",
+        "Synonyms": [],
+        "TaxId": "691252"
+    },
+    "Lophogaster typicus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Lophogastridae",
+        "Genus": "Lophogaster",
+        "Synonyms": [],
+        "TaxId": "419538"
+    },
+    "Neognathophausia gigas": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Lophogastridae",
+        "Genus": "Neognathophausia",
+        "Synonyms": [
+            "Gnathophausia gigas"
+        ],
+        "TaxId": "419497"
+    },
+    "Eucopia sculpticauda": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Eucopiidae",
+        "Genus": "Eucopia",
+        "Synonyms": [],
+        "TaxId": "419496"
+    },
+    "Eucopia sp. TS-2005": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Eucopiidae",
+        "Genus": "Eucopia",
+        "Synonyms": [],
+        "TaxId": "314077"
+    },
+    "Gnathophausia zoea": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Lophogastridae",
+        "Genus": "Gnathophausia",
+        "Synonyms": [],
+        "TaxId": "314074"
+    },
+    "Neognathophausia ingens": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Lophogastrida",
+        "Family": "Lophogastridae",
+        "Genus": "Neognathophausia",
+        "Synonyms": [
+            "Gnathophausia ingens",
+            "Lophogaster ingens"
+        ],
+        "TaxId": "133718"
+    },
+    "Rhopalophthalmus orientalis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Rhopalophthalmus",
+        "Synonyms": [],
+        "TaxId": "1483475"
+    },
+    "Hemimysis anomala": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Hemimysis",
+        "Synonyms": [],
+        "TaxId": "236576"
+    },
+    "Stygiomysis cokei": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Stygiomysidae",
+        "Genus": "Stygiomysis",
+        "Synonyms": [],
+        "TaxId": "419499"
+    },
+    "Erythrops elegans": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Erythrops",
+        "Synonyms": [
+            "Nematopus elegans"
+        ],
+        "TaxId": "2268644"
+    },
+    "Boreomysis tridens": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Boreomysis",
+        "Synonyms": [],
+        "TaxId": "419505"
+    },
+    "Archaeomysis articulata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Archaeomysis",
+        "Synonyms": [],
+        "TaxId": "1093677"
+    },
+    "Stygiomysis sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Stygiomysidae",
+        "Genus": "Stygiomysis",
+        "Synonyms": [],
+        "TaxId": "3242935"
+    },
+    "Mysida sp. BOLD:AAH7607": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "924019"
+    },
+    "Mysidae sp. 10BIOBC-01077": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2304968"
+    },
+    "Caspiomysis knipowitschi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Caspiomysis",
+        "Synonyms": [],
+        "TaxId": "495537"
+    },
+    "Archaeomysis grebnitzkii": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Archaeomysis",
+        "Synonyms": [],
+        "TaxId": "401108"
+    },
+    "Mysidae sp. FTP_3330": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2491632"
+    },
+    "Archaeomysis japonica": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Archaeomysis",
+        "Synonyms": [],
+        "TaxId": "236542"
+    },
+    "Ceratomysis spinosa": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Pentalophthalmidae",
+        "Genus": "Ceratomysis",
+        "Synonyms": [],
+        "TaxId": "2664501"
+    },
+    "Mysida sp. BOLD:AAH2728": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "851734"
+    },
+    "Mysida sp. BOLD:AAC6554": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "851732"
+    },
+    "Dactylerythrops bidigitatus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Dactylerythrops",
+        "Synonyms": [
+            "Dactylerythrops bidigitata"
+        ],
+        "TaxId": "2664502"
+    },
+    "Mysidae sp. FTP_3353": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2491623"
+    },
+    "Erythrops serrata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Erythrops",
+        "Synonyms": [
+            "Nematopus serratus"
+        ],
+        "TaxId": "419516"
+    },
+    "Mysidae sp. BIOUG30215-E08": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2134812"
+    },
+    "Mysidae sp. BACAZ-090": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2134829"
+    },
+    "Spelaeomysis bottazzii": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Lepidomysidae",
+        "Genus": "Spelaeomysis",
+        "Synonyms": [],
+        "TaxId": "2970448"
+    },
+    "Mysidae sp. FTP_3362": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2491622"
+    },
+    "Paramysis intermedia": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Paramysis",
+        "Synonyms": [
+            "Mesomysis intermedia",
+            "Paramysisintermedia"
+        ],
+        "TaxId": "261867"
+    },
+    "Mysidae sp. FTP_3324": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2491631"
+    },
+    "Mysidae sp. BIOUG30215-B08": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2134808"
+    },
+    "Paramysis inflata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Paramysis",
+        "Synonyms": [
+            "Metamysis inflata"
+        ],
+        "TaxId": "495543"
+    },
+    "Stygiomysis holthuisi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Stygiomysidae",
+        "Genus": "Stygiomysis",
+        "Synonyms": [
+            "Rhopalonurus holthuisi"
+        ],
+        "TaxId": "419500"
+    },
+    "Heteromysis korntalensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "Heteromysis",
+        "Synonyms": [
+            "Heteromysiskorntalensis"
+        ],
+        "TaxId": "2811330"
+    },
+    "Mysidae sp. HLC-30353": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mysida",
+        "Family": "Mysidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2457472"
+    },
+    "Leptognathiella sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Colletteidae",
+        "Genus": "Leptognathiella",
+        "Synonyms": [],
+        "TaxId": "3041575"
+    },
+    "Zeuxo sp. FHL 1": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Tanaididae",
+        "Genus": "Zeuxo",
+        "Synonyms": [],
+        "TaxId": "2172642"
+    },
+    "Akanthophoreus cf. alba ITan165": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Akanthophoreidae",
+        "Genus": "Akanthophoreus",
+        "Synonyms": [],
+        "TaxId": "2563767"
+    },
+    "Mystriocentrus hollandae": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Pseudotanaidae",
+        "Genus": "Mystriocentrus",
+        "Synonyms": [],
+        "TaxId": "2707870"
+    },
+    "Paratanais sp. KK-2011": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Paratanaidae",
+        "Genus": "Paratanais",
+        "Synonyms": [],
+        "TaxId": "992960"
+    },
+    "Agathotanaidae sp. ITan188": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Agathotanaidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1629957"
+    },
+    "Typhlotanais finmarchicus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Typhlotanaidae",
+        "Genus": "Typhlotanais",
+        "Synonyms": [],
+        "TaxId": "2604947"
+    },
+    "Pulcherella sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Typhlotanaidae",
+        "Genus": "Pulcherella",
+        "Synonyms": [],
+        "TaxId": "3014019"
+    },
+    "Siphonolabrum sp. R32": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Anarthruridae",
+        "Genus": "Siphonolabrum",
+        "Synonyms": [],
+        "TaxId": "2823089"
+    },
+    "Stenotanais sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Akanthophoreidae",
+        "Genus": "Stenotanais",
+        "Synonyms": [],
+        "TaxId": "3041569"
+    },
+    "Typhlamia sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Typhlotanaidae",
+        "Genus": "Typhlamia",
+        "Synonyms": [],
+        "TaxId": "3036145"
+    },
+    "Tanaidacea sp. OTU3": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1096927"
+    },
+    "Pseudosphyrapus aff. quintolongus KK-2011": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Sphyrapidae",
+        "Genus": "Pseudosphyrapus",
+        "Synonyms": [],
+        "TaxId": "992970"
+    },
+    "Zeuxo sp. TV1": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Tanaididae",
+        "Genus": "Zeuxo",
+        "Synonyms": [],
+        "TaxId": "1464573"
+    },
+    "Zeuxo sp. KK-2011-2": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Tanaididae",
+        "Genus": "Zeuxo",
+        "Synonyms": [],
+        "TaxId": "992962"
+    },
+    "Parapseudotanais sp. 1 AMJ-2023a": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Pseudotanaidae",
+        "Genus": "Parapseudotanais",
+        "Synonyms": [],
+        "TaxId": "3031989"
+    },
+    "Stuttotanais frenchae": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Typhlotanaidae",
+        "Genus": "Stuttotanais",
+        "Synonyms": [],
+        "TaxId": "3014034"
+    },
+    "Apseudopsis latreillii": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Apseudidae",
+        "Genus": "Apseudopsis",
+        "Synonyms": [
+            "Apseudes latreillei",
+            "Apseudes latreillii"
+        ],
+        "TaxId": "1453328"
+    },
+    "Parapseudes sp. DD-2010": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Parapseudidae",
+        "Genus": "Parapseudes",
+        "Synonyms": [],
+        "TaxId": "764960"
+    },
+    "Atlantapseudes sp. KK-2011": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Apseudidae",
+        "Genus": "Atlantapseudes",
+        "Synonyms": [],
+        "TaxId": "992957"
+    },
+    "Protanais birsteini": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Tanaididae",
+        "Genus": "Protanais",
+        "Synonyms": [
+            "Anatanais birsteini"
+        ],
+        "TaxId": "1610779"
+    },
+    "Neotanais sp. KK-2011-2": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Neotanaidae",
+        "Genus": "Neotanais",
+        "Synonyms": [],
+        "TaxId": "992982"
+    },
+    "Paratanaidoidea gen. 2 sp. 2 AMJ-2023b": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "3041881"
+    },
+    "Sarsotanais georgi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Typhlotanaidae",
+        "Genus": "Sarsotanais",
+        "Synonyms": [],
+        "TaxId": "3014032"
+    },
+    "Akanthophoreidae sp. ITan051": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Akanthophoreidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1629959"
+    },
+    "Apseudes nipponicus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Apseudidae",
+        "Genus": "Apseudes",
+        "Synonyms": [
+            "Androgynella nipponicus"
+        ],
+        "TaxId": "3110326"
+    },
+    "Pseudoparatanais batei": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "unknown",
+        "Genus": "Pseudoparatanais",
+        "Synonyms": [
+            "Paratanais batei"
+        ],
+        "TaxId": "2874293"
+    },
+    "Akanthinotanais sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Pseudotanaidae",
+        "Genus": "Akanthinotanais",
+        "Synonyms": [],
+        "TaxId": "3031992"
+    },
+    "Typhlotanais sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Typhlotanaidae",
+        "Genus": "Typhlotanais",
+        "Synonyms": [],
+        "TaxId": "3014021"
+    },
+    "Phoxokalliapseudes tomiokaensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Tanaidacea",
+        "Family": "Kalliapseudidae",
+        "Genus": "Phoxokalliapseudes",
+        "Synonyms": [
+            "Kalliapseudes tomiokaensis"
+        ],
+        "TaxId": "2823086"
+    },
+    "Mictocaris halope": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mictacea",
+        "Family": "Mictocarididae",
+        "Genus": "Mictocaris",
+        "Synonyms": [],
+        "TaxId": "653934"
+    },
+    "Thetispelecaris remex": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Mictacea",
+        "Family": "Hirsutiidae",
+        "Genus": "Thetispelecaris",
+        "Synonyms": [],
+        "TaxId": "314079"
+    },
+    "Micraspides sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Koonungidae",
+        "Genus": "Micraspides",
+        "Synonyms": [],
+        "TaxId": "3041059"
+    },
+    "Anaspides driesseni": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Anaspides",
+        "Synonyms": [],
+        "TaxId": "2987621"
+    },
+    "Stygocaris sp. MNCN ADN 54608": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Stygocarididae",
+        "Genus": "Stygocaris",
+        "Synonyms": [],
+        "TaxId": "2759883"
+    },
+    "Paranaspides sp. MNCN ADN 29534": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Paranaspides",
+        "Synonyms": [],
+        "TaxId": "2759872"
+    },
+    "Paranaspides williamsi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Paranaspides",
+        "Synonyms": [],
+        "TaxId": "2231316"
+    },
+    "Micraspides calmani": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Koonungidae",
+        "Genus": "Micraspides",
+        "Synonyms": [],
+        "TaxId": "2043566"
+    },
+    "Anaspides richardsoni": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Anaspides",
+        "Synonyms": [],
+        "TaxId": "2043561"
+    },
+    "Anaspides eberhardi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Anaspides",
+        "Synonyms": [],
+        "TaxId": "2043560"
+    },
+    "Koonunga cursor": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Koonungidae",
+        "Genus": "Koonunga",
+        "Synonyms": [],
+        "TaxId": "2043559"
+    },
+    "Anaspides swaini": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Anaspides",
+        "Synonyms": [],
+        "TaxId": "2043558"
+    },
+    "Anaspides jarmani": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Anaspides",
+        "Synonyms": [],
+        "TaxId": "2043557"
+    },
+    "Anaspides clarkei": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Anaspides",
+        "Synonyms": [],
+        "TaxId": "2043556"
+    },
+    "Psammaspididae sp. 1 JL-2016": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Psammaspididae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1826023"
+    },
+    "Koonunga tatiaraensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Koonungidae",
+        "Genus": "Koonunga",
+        "Synonyms": [],
+        "TaxId": "1768676"
+    },
+    "Koonunga hornei": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Koonungidae",
+        "Genus": "Koonunga",
+        "Synonyms": [],
+        "TaxId": "1768675"
+    },
+    "Koonunga crenarum": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Koonungidae",
+        "Genus": "Koonunga",
+        "Synonyms": [],
+        "TaxId": "1768674"
+    },
+    "Koonunga allambiensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Koonungidae",
+        "Genus": "Koonunga",
+        "Synonyms": [],
+        "TaxId": "1768673"
+    },
+    "Anaspididae sp. MGA-2011b": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1274274"
+    },
+    "Psammaspididae sp. 1 MTG-2007": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Psammaspididae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "489762"
+    },
+    "Paranaspides lacustris": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Paranaspides",
+        "Synonyms": [],
+        "TaxId": "92001"
+    },
+    "Anaspides spinulae": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Anaspides",
+        "Synonyms": [],
+        "TaxId": "91999"
+    },
+    "Allanaspides hickmani": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Allanaspides",
+        "Synonyms": [],
+        "TaxId": "91998"
+    },
+    "Allanaspides helonomus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Allanaspides",
+        "Synonyms": [],
+        "TaxId": "91997"
+    },
+    "Anaspides tasmaniae": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Anaspidacea",
+        "Family": "Anaspididae",
+        "Genus": "Anaspides",
+        "Synonyms": [
+            "Anaspis tasmaniae"
+        ],
+        "TaxId": "77687"
+    },
+    "Pilbaranella ethelensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Bathynellidae",
+        "Genus": "Pilbaranella",
+        "Synonyms": [],
+        "TaxId": "2161702"
+    },
+    "Parabathynellidae gen. A sp. 1 MTG-2007": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Parabathynellidae gen. A MTG-2007",
+        "Synonyms": [],
+        "TaxId": "489781"
+    },
+    "Iberobathynella andalusica": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Iberobathynella",
+        "Synonyms": [],
+        "TaxId": "1795568"
+    },
+    "Bathynellidae sp. Yalleen": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Bathynellidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "3366508"
+    },
+    "Billibathynella sp. BSY187-DNA": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Billibathynella",
+        "Synonyms": [],
+        "TaxId": "3229059"
+    },
+    "Parabathynellidae sp. L1.B1": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1826017"
+    },
+    "Parabathynellidae sp. STC27": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "3360064"
+    },
+    "Parvulobathynella distincta": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Parvulobathynella",
+        "Synonyms": [],
+        "TaxId": "1797097"
+    },
+    "Parabathynellidae sp. 2B": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1280162"
+    },
+    "Paraeobathynella sp. MNCN ADN 54876": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Paraeobathynella",
+        "Synonyms": [],
+        "TaxId": "2762098"
+    },
+    "Bathynellidae sp. D3.B1": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Bathynellidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1825999"
+    },
+    "Arisubathynella hongcheonensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Arisubathynella",
+        "Synonyms": [],
+        "TaxId": "3036497"
+    },
+    "Texanobathynella sp. MNCN ADN 54641": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Texanobathynella",
+        "Synonyms": [],
+        "TaxId": "2045049"
+    },
+    "Parabathynellidae gen. A sp. 9 MTG-2007": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Parabathynellidae gen. A MTG-2007",
+        "Synonyms": [],
+        "TaxId": "489786"
+    },
+    "Arkaroolabathynella bispinosa": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Arkaroolabathynella",
+        "Synonyms": [],
+        "TaxId": "1280159"
+    },
+    "Brevisomabathynella sp. 3 KMA-2012": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Brevisomabathynella",
+        "Synonyms": [],
+        "TaxId": "1195416"
+    },
+    "Atopobathynella sp. PBAT019": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Atopobathynella",
+        "Synonyms": [],
+        "TaxId": "3137342"
+    },
+    "Iberobathynella cantabriensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Iberobathynella",
+        "Synonyms": [],
+        "TaxId": "980967"
+    },
+    "Billibathynella sp. 2 MTG-2007": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Billibathynella",
+        "Synonyms": [],
+        "TaxId": "489772"
+    },
+    "Parabathynellidae sp. H-SPA048": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2824945"
+    },
+    "Gallobathynella sp. ABI-2015": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Bathynellidae",
+        "Genus": "Gallobathynella",
+        "Synonyms": [],
+        "TaxId": "1795580"
+    },
+    "Racovitzaibathynella sp. 1 BAD-2024b": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Racovitzaibathynella",
+        "Synonyms": [],
+        "TaxId": "3138319"
+    },
+    "Parabathynellidae sp. 4G": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1280177"
+    },
+    "Bathynella (Lombardobathynella) sp. MNCN ADN 54775": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Bathynellidae",
+        "Genus": "Bathynella",
+        "Synonyms": [],
+        "TaxId": "2600247"
+    },
+    "Parabathynellidae gen. A sp. 13 MTG-2007": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Parabathynellidae gen. A MTG-2007",
+        "Synonyms": [],
+        "TaxId": "489787"
+    },
+    "Bathynellidae nr. Fortescuenella sp. WAMC57630": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Bathynellidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2580573"
+    },
+    "Texanobathynella sp. 2 BAD-2020": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Texanobathynella",
+        "Synonyms": [],
+        "TaxId": "2762099"
+    },
+    "Vejdovskybathynella edelweiss": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Bathynellidae",
+        "Genus": "Vejdovskybathynella",
+        "Synonyms": [],
+        "TaxId": "948460"
+    },
+    "Paraiberobathynella cf. fagei MNCN ADN 54550": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Bathynellacea",
+        "Family": "Parabathynellidae",
+        "Genus": "Paraiberobathynella",
+        "Synonyms": [],
+        "TaxId": "2896578"
+    },
+    "Amphionides reynaudii": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphionidacea",
+        "Family": "Amphionididae",
+        "Genus": "Amphionides",
+        "Synonyms": [
+            "Amphion reynaudii"
+        ],
+        "TaxId": "1727191"
+    },
+    "Gonodactylaceus randalli": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Gonodactylaceus",
+        "Synonyms": [
+            "Gonodactylus randalli"
+        ],
+        "TaxId": "2773372"
+    },
+    "Squillidae sp. USNM IZ 1450001": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Squillidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2783227"
+    },
+    "Stomatopoda sp. LPdivOTU481": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "875032"
+    },
+    "Gonodactylellus rubriguttatas": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Gonodactylellus",
+        "Synonyms": [],
+        "TaxId": "120906"
+    },
+    "Hemisquilla ensigera": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Hemisquillidae",
+        "Genus": "Hemisquilla",
+        "Synonyms": [
+            "Gonodactylus ensiger"
+        ],
+        "TaxId": "85145"
+    },
+    "Lysiosquilla sulcirostris": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Lysiosquillidae",
+        "Genus": "Lysiosquilla",
+        "Synonyms": [],
+        "TaxId": "2942430"
+    },
+    "Neogonodactylus bredini": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Neogonodactylus",
+        "Synonyms": [
+            "Gonodactylus bredini"
+        ],
+        "TaxId": "120913"
+    },
+    "Gonodactylaceus sp. Lord": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Gonodactylaceus",
+        "Synonyms": [],
+        "TaxId": "3394639"
+    },
+    "Stomatopoda sp. USNM IZ 1253692": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2876950"
+    },
+    "Gonodactylus sp. 'morph Y' PHB-2006": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Gonodactylus",
+        "Synonyms": [
+            "Gonodactylus sp. morph Y PHB-2006"
+        ],
+        "TaxId": "379076"
+    },
+    "Squillidae sp. PNG-0149": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Squillidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1809992"
+    },
+    "Acanthosquilla derijardi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Nannosquillidae",
+        "Genus": "Acanthosquilla",
+        "Synonyms": [],
+        "TaxId": "2917026"
+    },
+    "Gonodactylellus sp. 'morph Y' PHB-2006": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Gonodactylellus",
+        "Synonyms": [
+            "Gonodactylellus sp. morph Y PHB-2006"
+        ],
+        "TaxId": "378747"
+    },
+    "Neogonodactylus oerstedii": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Neogonodactylus",
+        "Synonyms": [
+            "Gonodactylus oerstedii"
+        ],
+        "TaxId": "85128"
+    },
+    "Erugosquilla woodmasoni": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Squillidae",
+        "Genus": "Erugosquilla",
+        "Synonyms": [
+            "Squilla wood-masoni"
+        ],
+        "TaxId": "564213"
+    },
+    "Pseudosquillidae sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Pseudosquillidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "3065356"
+    },
+    "Stomatopoda sp. USNM IZ 1253691": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2876951"
+    },
+    "Lysiosquilloides siamensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Lysiosquillidae",
+        "Genus": "Lysiosquilloides",
+        "Synonyms": [
+            "Lysiosquilla siamensis"
+        ],
+        "TaxId": "2942434"
+    },
+    "Heterosquilla sp. DECNZ269-09": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Heterosquillidae",
+        "Genus": "Heterosquilla",
+        "Synonyms": [],
+        "TaxId": "2550660"
+    },
+    "Harpiosquilla melanoura": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Squillidae",
+        "Genus": "Harpiosquilla",
+        "Synonyms": [],
+        "TaxId": "2529180"
+    },
+    "Odontodactylus sp. 1704-38B": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Odontodactylidae",
+        "Genus": "Odontodactylus",
+        "Synonyms": [],
+        "TaxId": "2917056"
+    },
+    "Squillidae sp. 1704-007AK": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Squillidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2917066"
+    },
+    "Neogonodactylus wennerae": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Neogonodactylus",
+        "Synonyms": [],
+        "TaxId": "1663062"
+    },
+    "Quollastria fossulata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Squillidae",
+        "Genus": "Quollastria",
+        "Synonyms": [
+            "Oratosquilla fossulata"
+        ],
+        "TaxId": "2603382"
+    },
+    "Stomatopoda sp. USNM IZ 1253695": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2876947"
+    },
+    "Hoplosquilla said": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Hoplosquilla",
+        "Synonyms": [],
+        "TaxId": "120890"
+    },
+    "Gonodactylaceus sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Gonodactylidae",
+        "Genus": "Gonodactylaceus",
+        "Synonyms": [],
+        "TaxId": "2969972"
+    },
+    "Stomatopoda sp. 1 RWKT-2009": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "638796"
+    },
+    "Oratosquillina asiatica": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Stomatopoda",
+        "Family": "Squillidae",
+        "Genus": "Oratosquillina",
+        "Synonyms": [
+            "Oratosquilla asiatica"
+        ],
+        "TaxId": "2529185"
+    },
+    "Nebalia sp. SanLuciano": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586651"
+    },
+    "Nebalia pseudotroncosoi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "1221312"
+    },
+    "Nebalia sp. Ballona": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586627"
+    },
+    "Nebalia sp. PlayaSantispac": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586648"
+    },
+    "Nebalia sp. YavarosN": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586655"
+    },
+    "Nebalia sp. LaBocana": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586642"
+    },
+    "Nebalia sp. KinoBay": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586641"
+    },
+    "Nebalia lagartensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "2705164"
+    },
+    "Paranebalia belizensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Paranebaliidae",
+        "Genus": "Paranebalia",
+        "Synonyms": [],
+        "TaxId": "294123"
+    },
+    "Nebalia sp. RanchoBueno": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586650"
+    },
+    "Nebalia sp. LgnaEscondito": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586644"
+    },
+    "Nebalia sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "84339"
+    },
+    "Nebalia sp. FridayHarbor": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586637"
+    },
+    "Nebalia sp. ElCuarenta": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586632"
+    },
+    "Nebalia gerkenae": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586407"
+    },
+    "Nebalia bipes": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "1032909"
+    },
+    "Nebalia sp. EstTastiota": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586636"
+    },
+    "Nebalia sp. 1 BMR-2008": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "509929"
+    },
+    "Nebalia cf. bipes": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "3115603"
+    },
+    "Nebalia sp. BodegaBay": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586628"
+    },
+    "Nebalia sp. MorroBay": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586646"
+    },
+    "Nebalia sp. YavarosS": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586656"
+    },
+    "Paranebalia sp. TAH-2008": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Paranebaliidae",
+        "Genus": "Paranebalia",
+        "Synonyms": [],
+        "TaxId": "586657"
+    },
+    "Nebalia sp. EstSanJose": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586634"
+    },
+    "Nebalia sp. Pta.Armenta": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586649"
+    },
+    "Nebalia tagiri": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "2950562"
+    },
+    "Nebalia sp. IslSanLucas": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586639"
+    },
+    "Nebalia sp. Gallinitas": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "586638"
+    },
+    "Nebalia koreana": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Leptostraca",
+        "Family": "Nebaliidae",
+        "Genus": "Nebalia",
+        "Synonyms": [],
+        "TaxId": "2591978"
+    },
+    "Lirceus cedrus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Asellidae",
+        "Genus": "Lirceus",
+        "Synonyms": [],
+        "TaxId": "2992708"
+    },
+    "Ceratothoa sp. Cy131000": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Cymothoidae",
+        "Genus": "Ceratothoa",
+        "Synonyms": [],
+        "TaxId": "1862838"
+    },
+    "Burmoniscus okinawaensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Philosciidae",
+        "Genus": "Burmoniscus",
+        "Synonyms": [
+            "Setaphora okinawaensis"
+        ],
+        "TaxId": "1007666"
+    },
+    "Haploniscus sp. DSB_2110": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Haploniscidae",
+        "Genus": "Haploniscus",
+        "Synonyms": [],
+        "TaxId": "2910832"
+    },
+    "Burmoniscus sp. SZS2008": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Philosciidae",
+        "Genus": "Burmoniscus",
+        "Synonyms": [],
+        "TaxId": "2923888"
+    },
+    "Macrostylis sp. MA13-Iso513": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Macrostylidae",
+        "Genus": "Macrostylis",
+        "Synonyms": [],
+        "TaxId": "1944308"
+    },
+    "Chelator sp. VTDes187": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Desmosomatidae",
+        "Genus": "Chelator",
+        "Synonyms": [],
+        "TaxId": "2163241"
+    },
+    "Elaphognathia rangifer": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Gnathiidae",
+        "Genus": "Elaphognathia",
+        "Synonyms": [],
+        "TaxId": "670397"
+    },
+    "Ligidium sp. LL2002": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Ligiidae",
+        "Genus": "Ligidium",
+        "Synonyms": [],
+        "TaxId": "2804265"
+    },
+    "Burmoniscus mauritiensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Philosciidae",
+        "Genus": "Burmoniscus",
+        "Synonyms": [
+            "Rennelloscia mauritiensis"
+        ],
+        "TaxId": "3132092"
+    },
+    "Ligia sp. 3 CAS-2018": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Ligiidae",
+        "Genus": "Ligia",
+        "Synonyms": [],
+        "TaxId": "2448432"
+    },
+    "Haploniscus unicornis complex BOLD:AAH4065": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Haploniscidae",
+        "Genus": "Haploniscus",
+        "Synonyms": [
+            "Haploniscus sp. BOLD:AAH4065"
+        ],
+        "TaxId": "1055500"
+    },
+    "Armadillidium sp. JM-2004": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Armadillidiidae",
+        "Genus": "Armadillidium",
+        "Synonyms": [],
+        "TaxId": "307035"
+    },
+    "Proasellus pribenicensis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Asellidae",
+        "Genus": "Proasellus",
+        "Synonyms": [],
+        "TaxId": "1282022"
+    },
+    "Eurycope sp. DSB_1509": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Munnopsidae",
+        "Genus": "Eurycope",
+        "Synonyms": [],
+        "TaxId": "2900981"
+    },
+    "Sphaeromatidae sp. C_0765": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Sphaeromatidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1984565"
+    },
+    "Moserius percoi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Trichoniscidae",
+        "Genus": "Moserius",
+        "Synonyms": [],
+        "TaxId": "2934294"
+    },
+    "Philosciidae sp. H-ISP055": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Philosciidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2850273"
+    },
+    "Ligidium sp. Funabashi-shi_1": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Ligiidae",
+        "Genus": "Ligidium",
+        "Synonyms": [],
+        "TaxId": "2751561"
+    },
+    "Pseudolaureola hystrix": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Armadillidae",
+        "Genus": "Pseudolaureola",
+        "Synonyms": [
+            "Akermania hystrix"
+        ],
+        "TaxId": "2936660"
+    },
+    "Exosphaeroma sp. RW03.196": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Sphaeromatidae",
+        "Genus": "Exosphaeroma",
+        "Synonyms": [],
+        "TaxId": "1140597"
+    },
+    "Isopoda sp. BACAZ-028": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2134698"
+    },
+    "Cleantis prismatica": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Holognathidae",
+        "Genus": "Cleantis",
+        "Synonyms": [
+            "Zenobia prismatica"
+        ],
+        "TaxId": "155690"
+    },
+    "Eremitione rybakovi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Bopyridae",
+        "Genus": "Eremitione",
+        "Synonyms": [],
+        "TaxId": "3238492"
+    },
+    "Burmoniscus sp. MCJ2008": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Philosciidae",
+        "Genus": "Burmoniscus",
+        "Synonyms": [],
+        "TaxId": "2923806"
+    },
+    "Paraplatyarthrus sp. 5 MJ-2016": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Paraplatyarthridae",
+        "Genus": "Paraplatyarthrus",
+        "Synonyms": [],
+        "TaxId": "1887070"
+    },
+    "Ligidium sp. Hiroka_a_4": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Ligiidae",
+        "Genus": "Ligidium",
+        "Synonyms": [],
+        "TaxId": "2751571"
+    },
+    "Mesosignidae sp. CCZ1657-17_Mesosignidae_SO239_197_MesoJP57": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Mesosignidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2965358"
+    },
+    "Sphaeromatidae sp. C_1177": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Isopoda",
+        "Family": "Sphaeromatidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1984586"
+    },
+    "Diastylidae sp. JMMCC075-10": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2327399"
+    },
+    "Lamprops sp. SMB-2011": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Lampropidae",
+        "Genus": "Lamprops",
+        "Synonyms": [],
+        "TaxId": "1100067"
+    },
+    "Atlantocuma sp. PR-2011": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Bodotriidae",
+        "Genus": "Atlantocuma",
+        "Synonyms": [],
+        "TaxId": "944029"
+    },
+    "Cumacea sp. SERC INVERT 0959": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2175104"
+    },
+    "Diastylis sp. SMB-2011": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "Diastylis",
+        "Synonyms": [],
+        "TaxId": "1100056"
+    },
+    "Lamprops quadriplicata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Lampropidae",
+        "Genus": "Lamprops",
+        "Synonyms": [],
+        "TaxId": "156636"
+    },
+    "Leptostylis cf. longimana P-Dias007": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "Leptostylis",
+        "Synonyms": [],
+        "TaxId": "2883912"
+    },
+    "Diastylidae sp. WCH_2336": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2491613"
+    },
+    "Diastylidae sp. SACRU034-09": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2327410"
+    },
+    "Leucon acutirostris": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Leuconidae",
+        "Genus": "Leucon",
+        "Synonyms": [],
+        "TaxId": "2546688"
+    },
+    "Diastylopsis sp. PR-2011": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "Diastylopsis",
+        "Synonyms": [],
+        "TaxId": "944027"
+    },
+    "Leuconidae sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Leuconidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "3061712"
+    },
+    "Diastylidae sp. JMMCC053-10": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2327397"
+    },
+    "Leptostylis cf. borealis ICE1-Dia015": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "Leptostylis",
+        "Synonyms": [],
+        "TaxId": "2883906"
+    },
+    "Hemilamprops aff. diversus ICE1-Lam010": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Lampropidae",
+        "Genus": "Hemilamprops",
+        "Synonyms": [],
+        "TaxId": "2883892"
+    },
+    "Hemilamprops aff. diversus ICE1-Lam001": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Lampropidae",
+        "Genus": "Hemilamprops",
+        "Synonyms": [],
+        "TaxId": "2883890"
+    },
+    "Leptostylis cf. ampullacea ICE1-Dia014": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "Leptostylis",
+        "Synonyms": [],
+        "TaxId": "2883899"
+    },
+    "Campylaspis undata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Nannastacidae",
+        "Genus": "Campylaspis",
+        "Synonyms": [],
+        "TaxId": "2546676"
+    },
+    "Leptostylis macrura": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "Leptostylis",
+        "Synonyms": [],
+        "TaxId": "2546705"
+    },
+    "Vemakylindrus cantabricus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "Vemakylindrus",
+        "Synonyms": [],
+        "TaxId": "1818087"
+    },
+    "Cumacea sp. NNMC531-09": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2327020"
+    },
+    "Leptostylis villosa": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "Leptostylis",
+        "Synonyms": [],
+        "TaxId": "2546706"
+    },
+    "Cumella pygmaea": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Nannastacidae",
+        "Genus": "Cumella",
+        "Synonyms": [],
+        "TaxId": "3378708"
+    },
+    "Leucon antarcticus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Leuconidae",
+        "Genus": "Leucon",
+        "Synonyms": [],
+        "TaxId": "944032"
+    },
+    "Campylaspis costata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Nannastacidae",
+        "Genus": "Campylaspis",
+        "Synonyms": [],
+        "TaxId": "2546671"
+    },
+    "Diastylis sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "Diastylis",
+        "Synonyms": [],
+        "TaxId": "27415"
+    },
+    "Leucon rossi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Leuconidae",
+        "Genus": "Leucon",
+        "Synonyms": [],
+        "TaxId": "944035"
+    },
+    "Diastylidae sp. CRCH070-09": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Diastylidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2327385"
+    },
+    "Pseudocuma longicorne": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Cumacea",
+        "Family": "Pseudocumatidae",
+        "Genus": "Pseudocuma",
+        "Synonyms": [
+            "Cyrianassa longicornis"
+        ],
+        "TaxId": "3383955"
+    },
+    "Niphargus cf. fontanus 2-PT-2007": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Niphargidae",
+        "Genus": "Niphargus",
+        "Synonyms": [],
+        "TaxId": "467544"
+    },
+    "Hyalella sp. 4780": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Hyalellidae",
+        "Genus": "Hyalella",
+        "Synonyms": [],
+        "TaxId": "2742061"
+    },
+    "Amphipoda sp. BOLD:ACQ6992": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1629181"
+    },
+    "Ischyroceridae sp. 10BIOBC-00922": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Ischyroceridae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2304991"
+    },
+    "Paramelitidae sp. Biologic-AMPH025": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Paramelitidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2773541"
+    },
+    "Gammarus cf. aequicauda TBQ26_B_G.aeq": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Gammaridae",
+        "Genus": "Gammarus",
+        "Synonyms": [],
+        "TaxId": "2492571"
+    },
+    "Nipponorchestia sp. 8 HL-2023a": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Talitridae",
+        "Genus": "Nipponorchestia",
+        "Synonyms": [],
+        "TaxId": "3030383"
+    },
+    "Gammarus cf. aequicauda TBQ12_C_G.aeq": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Gammaridae",
+        "Genus": "Gammarus",
+        "Synonyms": [],
+        "TaxId": "2492556"
+    },
+    "Amphipoda sp. FTP_3277": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2491565"
+    },
+    "Ischyroceridae sp. 31811_14.5": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Ischyroceridae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2863418"
+    },
+    "Amphipoda sp. BOLD:AAG7253": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "815266"
+    },
+    "Caprella cf. penantis PTVIA4658": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Caprellidae",
+        "Genus": "Caprella",
+        "Synonyms": [],
+        "TaxId": "2906684"
+    },
+    "Amphipoda sp. NZAC 03009168": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1596043"
+    },
+    "Amphipoda sp. LspC277": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2094414"
+    },
+    "Amphipoda sp. BOLD:AAI9471": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "915530"
+    },
+    "Ampithoidae sp. 2 HL-2023a": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Ampithoidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "3030272"
+    },
+    "Melita panda": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Melitidae",
+        "Genus": "Melita",
+        "Synonyms": [],
+        "TaxId": "3384902"
+    },
+    "Niphargus sp. ND398": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Niphargidae",
+        "Genus": "Niphargus",
+        "Synonyms": [],
+        "TaxId": "2876435"
+    },
+    "Scopelocheirus sp. LspC282": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Lysianassidae",
+        "Genus": "Scopelocheirus",
+        "Synonyms": [],
+        "TaxId": "2094402"
+    },
+    "Niphargus sp. ND210": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Niphargidae",
+        "Genus": "Niphargus",
+        "Synonyms": [],
+        "TaxId": "2876405"
+    },
+    "Gammarus cf. fossarum KOHSKG1": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Gammaridae",
+        "Genus": "Gammarus",
+        "Synonyms": [],
+        "TaxId": "1993749"
+    },
+    "Gammarus cf. komareki LH1": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Gammaridae",
+        "Genus": "Gammarus",
+        "Synonyms": [],
+        "TaxId": "1815723"
+    },
+    "Chiltoniidae sp. NA2": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Chiltoniidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1745295"
+    },
+    "Niphargus sp. 30 SB-2021": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Niphargidae",
+        "Genus": "Niphargus",
+        "Synonyms": [],
+        "TaxId": "2812393"
+    },
+    "Idunella longirostris": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Liljeborgiidae",
+        "Genus": "Idunella",
+        "Synonyms": [
+            "Sextonia longirostris"
+        ],
+        "TaxId": "1806138"
+    },
+    "Spasskogammarus spasskii": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Anisogammaridae",
+        "Genus": "Spasskogammarus",
+        "Synonyms": [
+            "Echinogammarus spasskii"
+        ],
+        "TaxId": "353616"
+    },
+    "Niphargus sp. ND408": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Niphargidae",
+        "Genus": "Niphargus",
+        "Synonyms": [],
+        "TaxId": "2876438"
+    },
+    "Niphargus gammariformis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Niphargidae",
+        "Genus": "Niphargus",
+        "Synonyms": [],
+        "TaxId": "2707950"
+    },
+    "Arcitalitrus sp. 5 HL-2023a": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Amphipoda",
+        "Family": "Arcitalitridae",
+        "Genus": "Arcitalitrus",
+        "Synonyms": [],
+        "TaxId": "3030290"
+    },
+    "Euphausia lamelligera": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Euphausia",
+        "Synonyms": [],
+        "TaxId": "290142"
+    },
+    "Bentheuphausia amblyops": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Bentheuphausiidae",
+        "Genus": "Bentheuphausia",
+        "Synonyms": [
+            "Thysanopoda amblyops"
+        ],
+        "TaxId": "409853"
+    },
+    "Euphausia pseudogibba": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Euphausia",
+        "Synonyms": [],
+        "TaxId": "2060205"
+    },
+    "Euphausiacea sp. caab260": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2211595"
+    },
+    "Euphausiidae sp. EU7": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2565619"
+    },
+    "Euphausia distinguenda": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Euphausia",
+        "Synonyms": [],
+        "TaxId": "290138"
+    },
+    "Meganyctiphanes sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Meganyctiphanes",
+        "Synonyms": [],
+        "TaxId": "2812781"
+    },
+    "Stylocheiron sp. USNM IZ 1448669": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Stylocheiron",
+        "Synonyms": [],
+        "TaxId": "2782979"
+    },
+    "Hansarsia sp. 1 UVS-2023a": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Hansarsia",
+        "Synonyms": [],
+        "TaxId": "3092286"
+    },
+    "Thysanopoda sp. HBG6146": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Thysanopoda",
+        "Synonyms": [],
+        "TaxId": "2060692"
+    },
+    "Thysanoessa spinifera": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Thysanoessa",
+        "Synonyms": [],
+        "TaxId": "329973"
+    },
+    "Stylocheiron affine": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Stylocheiron",
+        "Synonyms": [],
+        "TaxId": "159566"
+    },
+    "Euphausia eximia": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Euphausia",
+        "Synonyms": [],
+        "TaxId": "290139"
+    },
+    "Stylocheiron sp. USNM IZ 1448662": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Stylocheiron",
+        "Synonyms": [],
+        "TaxId": "2782973"
+    },
+    "Thysanoessa longipes": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Thysanoessa",
+        "Synonyms": [
+            "Thysanopoda longipes"
+        ],
+        "TaxId": "210625"
+    },
+    "Euphausiacea sp. caab201": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2211596"
+    },
+    "Nyctiphanes environmental sample": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Nyctiphanes",
+        "Synonyms": [],
+        "TaxId": "665456"
+    },
+    "Thysanopoda cornuta": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Thysanopoda",
+        "Synonyms": [],
+        "TaxId": "2060207"
+    },
+    "Hansarsia sp. USNM IZ 1448663": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Hansarsia",
+        "Synonyms": [],
+        "TaxId": "2782974"
+    },
+    "Euphausia triacantha": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Euphausia",
+        "Synonyms": [],
+        "TaxId": "102978"
+    },
+    "Euphausia hemigibba": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Euphausia",
+        "Synonyms": [],
+        "TaxId": "290141"
+    },
+    "Euphausiidae sp. EU2": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2565614"
+    },
+    "Stylocheiron sp. USNM IZ 1448672": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Stylocheiron",
+        "Synonyms": [],
+        "TaxId": "2782981"
+    },
+    "Thysanoessa inspinata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Thysanoessa",
+        "Synonyms": [],
+        "TaxId": "3108680"
+    },
+    "Nematobrachion flexipes": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Nematobrachion",
+        "Synonyms": [
+            "Stylocheiron flexipes"
+        ],
+        "TaxId": "169010"
+    },
+    "Euphausiacea sp. caab199": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2211594"
+    },
+    "Hansarsia difficilis": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Hansarsia",
+        "Synonyms": [
+            "Nematoscelis difficilis"
+        ],
+        "TaxId": "3105985"
+    },
+    "Euphausiacea sp.": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2952871"
+    },
+    "Euphausia crystallorophias": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Euphausiacea",
+        "Family": "Euphausiidae",
+        "Genus": "Euphausia",
+        "Synonyms": [],
+        "TaxId": "48141"
+    },
+    "Paracrangon echinata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Crangonidae",
+        "Genus": "Paracrangon",
+        "Synonyms": [],
+        "TaxId": "2172746"
+    },
+    "Fabia emiliai": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Pinnotheridae",
+        "Genus": "Fabia",
+        "Synonyms": [
+            "Pinnotheres emiliai"
+        ],
+        "TaxId": "1912801"
+    },
+    "Portunidae sp. PNG-0158": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Portunidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1810001"
+    },
+    "Euastacus valentulus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Parastacidae",
+        "Genus": "Euastacus",
+        "Synonyms": [],
+        "TaxId": "330448"
+    },
+    "Porcellanidae sp. C_0560": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Porcellanidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1984487"
+    },
+    "Cambarus cracens": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Cambaridae",
+        "Genus": "Cambarus",
+        "Synonyms": [],
+        "TaxId": "1240897"
+    },
+    "Plagusia chabrus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Plagusiidae",
+        "Genus": "Plagusia",
+        "Synonyms": [],
+        "TaxId": "666139"
+    },
+    "Caridea sp. LPdivOTU273": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "unknown",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "874906"
+    },
+    "Garymunida imitata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Munididae",
+        "Genus": "Garymunida",
+        "Synonyms": [
+            "Agononida imitata"
+        ],
+        "TaxId": "2971721"
+    },
+    "Caridina spinula": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Atyidae",
+        "Genus": "Caridina",
+        "Synonyms": [],
+        "TaxId": "382094"
+    },
+    "Thalamita crenata": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Portunidae",
+        "Genus": "Thalamita",
+        "Synonyms": [
+            "Talamita crenata",
+            "Thranita crenata"
+        ],
+        "TaxId": "278212"
+    },
+    "Pitho lherminieri": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Mithracidae",
+        "Genus": "Pitho",
+        "Synonyms": [
+            "Othonia lherminieri"
+        ],
+        "TaxId": "504434"
+    },
+    "Dacryomaia edmonsoni": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Cryptochiridae",
+        "Genus": "Dacryomaia",
+        "Synonyms": [
+            "Cryptochirus Edmonsoni",
+            "Cryptochirus edmonsoni"
+        ],
+        "TaxId": "2972419"
+    },
+    "Austrothelphusa sp. ww23318": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Parathelphusidae",
+        "Genus": "Austrothelphusa",
+        "Synonyms": [],
+        "TaxId": "2493728"
+    },
+    "Pagurus filholi": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Paguridae",
+        "Genus": "Pagurus",
+        "Synonyms": [
+            "Eupagurus filholi"
+        ],
+        "TaxId": "1927957"
+    },
+    "Hyastenus sp. 19142B": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Majidae",
+        "Genus": "Hyastenus",
+        "Synonyms": [],
+        "TaxId": "2731630"
+    },
+    "Cantopotamon yangxiense": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Potamidae",
+        "Genus": "Cantopotamon",
+        "Synonyms": [
+            "Potamidae gen. sp. 3 HTS-2017"
+        ],
+        "TaxId": "2058906"
+    },
+    "Pilumnidae sp. USNM 1466877": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Pilumnidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "2858252"
+    },
+    "Conchodytes tridacnae": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Palaemonidae",
+        "Genus": "Conchodytes",
+        "Synonyms": [],
+        "TaxId": "2936634"
+    },
+    "Aegla longirostri complex sp. UFSM 4778": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Aeglidae",
+        "Genus": "Aegla",
+        "Synonyms": [],
+        "TaxId": "2019357"
+    },
+    "Clibanarius signatus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Diogenidae",
+        "Genus": "Clibanarius",
+        "Synonyms": [],
+        "TaxId": "1127464"
+    },
+    "Alpheidae sp. PNG-0086o": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Alpheidae",
+        "Genus": "unknown",
+        "Synonyms": [],
+        "TaxId": "1809898"
+    },
+    "Hypocolpus diverticulatus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Xanthidae",
+        "Genus": "Hypocolpus",
+        "Synonyms": [
+            "Melissa diverticulata"
+        ],
+        "TaxId": "903738"
+    },
+    "Alpheus sp. HAW01": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Alpheidae",
+        "Genus": "Alpheus",
+        "Synonyms": [],
+        "TaxId": "2790696"
+    },
+    "Atyoida sp. 1 VDM-2024a": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Atyidae",
+        "Genus": "Atyoida",
+        "Synonyms": [],
+        "TaxId": "3128995"
+    },
+    "Phylladiorhynchus sp. C_0256": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Galatheidae",
+        "Genus": "Phylladiorhynchus",
+        "Synonyms": [],
+        "TaxId": "1984246"
+    },
+    "Upogebia miyakei": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Upogebiidae",
+        "Genus": "Upogebia",
+        "Synonyms": [],
+        "TaxId": "1273119"
+    },
+    "Anisomenaeus spinimanus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Palaemonidae",
+        "Genus": "Anisomenaeus",
+        "Synonyms": [
+            "Periclimenaeus spinimanus"
+        ],
+        "TaxId": "1530175"
+    },
+    "uncultured Panulirus": {
+        "Phylum": "Arthropoda",
+        "Class": "Malacostraca",
+        "Order": "Decapoda",
+        "Family": "Palinuridae",
+        "Genus": "Panulirus",
+        "Synonyms": [],
+        "TaxId": "335426"
+    }
+}

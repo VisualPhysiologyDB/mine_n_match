@@ -1,0 +1,367 @@
+Ingolfiella tabularis
+Halosbaena sp. PH Page-2009
+Halosbaena sp. Biologic-THER003
+Halosbaena sp. Biologic-THER001
+Tulumella sp.
+Thermosbaenacea sp.
+Tethysbaena relicta
+Tethysbaena ophelicola
+Halosbaena sp.
+Tethysbaena ledoyeri
+Tulumella unidens
+Halosbaena tulki
+Halosbaena sp. PL
+Halosbaena sp. PH
+Halosbaena sp. CRE
+Halosbaena sp. CI
+Halosbaena sp. BI
+Halosbaena fortunata
+Halosbaena daitoensis
+Tethysbaena sp. 6 JP-2015
+Tethysbaena sp. 5 JP-2015
+Tethysbaena sp. 4 JP-2015
+Tethysbaena atlantomaroccana
+Tethysbaena sp. 3 JP-2015
+Tethysbaena sp. 2 JP-2015
+Tethysbaena sp. 1 JP-2015
+Tethysbaena argentarii
+Tethysbaena scabra
+Mangkurtu sp. BSPE002-DNA
+Spelaeogriphus lepidops
+Eucopia sp. stet. JMQ-2024a
+Neognathophausia cf. gigas
+Neognathophausia sp.
+Gnathophausia sp. USNM IZ 1230748
+Gnathophausia sp. USNM IZ 1230473
+Eucopia sp. 70 CWD-2021
+Eucopia sp. 69 CWD-2021
+Eucopia sp. 68 CWD-2021
+Eucopia unguiculata
+Eucopia australis
+Fagegnathophausia gracilis
+Eucopia grimaldii
+Lophogaster typicus
+Neognathophausia gigas
+Eucopia sculpticauda
+Eucopia sp. TS-2005
+Gnathophausia zoea
+Neognathophausia ingens
+Rhopalophthalmus orientalis
+Hemimysis anomala
+Stygiomysis cokei
+Erythrops elegans
+Boreomysis tridens
+Archaeomysis articulata
+Stygiomysis sp.
+Mysida sp. BOLD:AAH7607
+Mysidae sp. 10BIOBC-01077
+Caspiomysis knipowitschi
+Archaeomysis grebnitzkii
+Mysidae sp. FTP_3330
+Archaeomysis japonica
+Ceratomysis spinosa
+Mysida sp. BOLD:AAH2728
+Mysida sp. BOLD:AAC6554
+Dactylerythrops bidigitatus
+Mysidae sp. FTP_3353
+Erythrops serrata
+Mysidae sp. BIOUG30215-E08
+Mysidae sp. BACAZ-090
+Spelaeomysis bottazzii
+Mysidae sp. FTP_3362
+Paramysis intermedia
+Mysidae sp. FTP_3324
+Mysidae sp. BIOUG30215-B08
+Paramysis inflata
+Stygiomysis holthuisi
+Heteromysis korntalensis
+Mysidae sp. HLC-30353
+Leptognathiella sp.
+Zeuxo sp. FHL 1
+Akanthophoreus cf. alba ITan165
+Mystriocentrus hollandae
+Paratanais sp. KK-2011
+Agathotanaidae sp. ITan188
+Typhlotanais finmarchicus
+Pulcherella sp.
+Siphonolabrum sp. R32
+Stenotanais sp.
+Typhlamia sp.
+Tanaidacea sp. OTU3
+Pseudosphyrapus aff. quintolongus KK-2011
+Zeuxo sp. TV1
+Zeuxo sp. KK-2011-2
+Parapseudotanais sp. 1 AMJ-2023a
+Stuttotanais frenchae
+Apseudopsis latreillii
+Parapseudes sp. DD-2010
+Atlantapseudes sp. KK-2011
+Protanais birsteini
+Neotanais sp. KK-2011-2
+Paratanaidoidea gen. 2 sp. 2 AMJ-2023b
+Sarsotanais georgi
+Akanthophoreidae sp. ITan051
+Apseudes nipponicus
+Pseudoparatanais batei
+Akanthinotanais sp.
+Typhlotanais sp.
+Phoxokalliapseudes tomiokaensis
+Mictocaris halope
+Thetispelecaris remex
+Micraspides sp.
+Anaspides driesseni
+Stygocaris sp. MNCN ADN 54608
+Paranaspides sp. MNCN ADN 29534
+Paranaspides williamsi
+Micraspides calmani
+Anaspides richardsoni
+Anaspides eberhardi
+Koonunga cursor
+Anaspides swaini
+Anaspides jarmani
+Anaspides clarkei
+Psammaspididae sp. 1 JL-2016
+Koonunga tatiaraensis
+Koonunga hornei
+Koonunga crenarum
+Koonunga allambiensis
+Anaspididae sp. MGA-2011b
+Psammaspididae sp. 1 MTG-2007
+Paranaspides lacustris
+Anaspides spinulae
+Allanaspides hickmani
+Allanaspides helonomus
+Anaspides tasmaniae
+Pilbaranella ethelensis
+Parabathynellidae gen. A sp. 1 MTG-2007
+Iberobathynella andalusica
+Bathynellidae sp. Yalleen
+Billibathynella sp. BSY187-DNA
+Parabathynellidae sp. L1.B1
+Parabathynellidae sp. STC27
+Parvulobathynella distincta
+Parabathynellidae sp. 2B
+Paraeobathynella sp. MNCN ADN 54876
+Bathynellidae sp. D3.B1
+Arisubathynella hongcheonensis
+Texanobathynella sp. MNCN ADN 54641
+Parabathynellidae gen. A sp. 9 MTG-2007
+Arkaroolabathynella bispinosa
+Brevisomabathynella sp. 3 KMA-2012
+Atopobathynella sp. PBAT019
+Iberobathynella cantabriensis
+Billibathynella sp. 2 MTG-2007
+Parabathynellidae sp. H-SPA048
+Gallobathynella sp. ABI-2015
+Racovitzaibathynella sp. 1 BAD-2024b
+Parabathynellidae sp. 4G
+Bathynella (Lombardobathynella) sp. MNCN ADN 54775
+Parabathynellidae gen. A sp. 13 MTG-2007
+Bathynellidae nr. Fortescuenella sp. WAMC57630
+Texanobathynella sp. 2 BAD-2020
+Vejdovskybathynella edelweiss
+Paraiberobathynella cf. fagei MNCN ADN 54550
+Amphionides reynaudii
+Gonodactylaceus randalli
+Squillidae sp. USNM IZ 1450001
+Stomatopoda sp. LPdivOTU481
+Gonodactylellus rubriguttatas
+Hemisquilla ensigera
+Lysiosquilla sulcirostris
+Neogonodactylus bredini
+Gonodactylaceus sp. Lord
+Stomatopoda sp. USNM IZ 1253692
+Gonodactylus sp. 'morph Y' PHB-2006
+Squillidae sp. PNG-0149
+Acanthosquilla derijardi
+Gonodactylellus sp. 'morph Y' PHB-2006
+Neogonodactylus oerstedii
+Erugosquilla woodmasoni
+Pseudosquillidae sp.
+Stomatopoda sp. USNM IZ 1253691
+Lysiosquilloides siamensis
+Heterosquilla sp. DECNZ269-09
+Harpiosquilla melanoura
+Odontodactylus sp. 1704-38B
+Squillidae sp. 1704-007AK
+Neogonodactylus wennerae
+Quollastria fossulata
+Stomatopoda sp. USNM IZ 1253695
+Hoplosquilla said
+Gonodactylaceus sp.
+Stomatopoda sp. 1 RWKT-2009
+Oratosquillina asiatica
+Nebalia sp. SanLuciano
+Nebalia pseudotroncosoi
+Nebalia sp. Ballona
+Nebalia sp. PlayaSantispac
+Nebalia sp. YavarosN
+Nebalia sp. LaBocana
+Nebalia sp. KinoBay
+Nebalia lagartensis
+Paranebalia belizensis
+Nebalia sp. RanchoBueno
+Nebalia sp. LgnaEscondito
+Nebalia sp.
+Nebalia sp. FridayHarbor
+Nebalia sp. ElCuarenta
+Nebalia gerkenae
+Nebalia bipes
+Nebalia sp. EstTastiota
+Nebalia sp. 1 BMR-2008
+Nebalia cf. bipes
+Nebalia sp. BodegaBay
+Nebalia sp. MorroBay
+Nebalia sp. YavarosS
+Paranebalia sp. TAH-2008
+Nebalia sp. EstSanJose
+Nebalia sp. Pta.Armenta
+Nebalia tagiri
+Nebalia sp. IslSanLucas
+Nebalia sp. Gallinitas
+Nebalia koreana
+Lirceus cedrus
+Ceratothoa sp. Cy131000
+Burmoniscus okinawaensis
+Haploniscus sp. DSB_2110
+Burmoniscus sp. SZS2008
+Macrostylis sp. MA13-Iso513
+Chelator sp. VTDes187
+Elaphognathia rangifer
+Ligidium sp. LL2002
+Burmoniscus mauritiensis
+Ligia sp. 3 CAS-2018
+Haploniscus unicornis complex BOLD:AAH4065
+Armadillidium sp. JM-2004
+Proasellus pribenicensis
+Eurycope sp. DSB_1509
+Sphaeromatidae sp. C_0765
+Moserius percoi
+Philosciidae sp. H-ISP055
+Ligidium sp. Funabashi-shi_1
+Pseudolaureola hystrix
+Exosphaeroma sp. RW03.196
+Isopoda sp. BACAZ-028
+Cleantis prismatica
+Eremitione rybakovi
+Burmoniscus sp. MCJ2008
+Paraplatyarthrus sp. 5 MJ-2016
+Ligidium sp. Hiroka_a_4
+Mesosignidae sp. CCZ1657-17_Mesosignidae_SO239_197_MesoJP57
+Sphaeromatidae sp. C_1177
+Diastylidae sp. JMMCC075-10
+Lamprops sp. SMB-2011
+Atlantocuma sp. PR-2011
+Cumacea sp. SERC INVERT 0959
+Diastylis sp. SMB-2011
+Lamprops quadriplicata
+Leptostylis cf. longimana P-Dias007
+Diastylidae sp. WCH_2336
+Diastylidae sp. SACRU034-09
+Leucon acutirostris
+Diastylopsis sp. PR-2011
+Leuconidae sp.
+Diastylidae sp. JMMCC053-10
+Leptostylis cf. borealis ICE1-Dia015
+Hemilamprops aff. diversus ICE1-Lam010
+Hemilamprops aff. diversus ICE1-Lam001
+Leptostylis cf. ampullacea ICE1-Dia014
+Campylaspis undata
+Leptostylis macrura
+Vemakylindrus cantabricus
+Cumacea sp. NNMC531-09
+Leptostylis villosa
+Cumella pygmaea
+Leucon antarcticus
+Campylaspis costata
+Diastylis sp.
+Leucon rossi
+Diastylidae sp. CRCH070-09
+Pseudocuma longicorne
+Niphargus cf. fontanus 2-PT-2007
+Hyalella sp. 4780
+Amphipoda sp. BOLD:ACQ6992
+Ischyroceridae sp. 10BIOBC-00922
+Paramelitidae sp. Biologic-AMPH025
+Gammarus cf. aequicauda TBQ26_B_G.aeq
+Nipponorchestia sp. 8 HL-2023a
+Gammarus cf. aequicauda TBQ12_C_G.aeq
+Amphipoda sp. FTP_3277
+Ischyroceridae sp. 31811_14.5
+Amphipoda sp. BOLD:AAG7253
+Caprella cf. penantis PTVIA4658
+Amphipoda sp. NZAC 03009168
+Amphipoda sp. LspC277
+Amphipoda sp. BOLD:AAI9471
+Ampithoidae sp. 2 HL-2023a
+Melita panda
+Niphargus sp. ND398
+Scopelocheirus sp. LspC282
+Niphargus sp. ND210
+Gammarus cf. fossarum KOHSKG1
+Gammarus cf. komareki LH1
+Chiltoniidae sp. NA2
+Niphargus sp. 30 SB-2021
+Idunella longirostris
+Spasskogammarus spasskii
+Niphargus sp. ND408
+Niphargus gammariformis
+Arcitalitrus sp. 5 HL-2023a
+Euphausia lamelligera
+Bentheuphausia amblyops
+Euphausia pseudogibba
+Euphausiacea sp. caab260
+Euphausiidae sp. EU7
+Euphausia distinguenda
+Meganyctiphanes sp.
+Stylocheiron sp. USNM IZ 1448669
+Hansarsia sp. 1 UVS-2023a
+Thysanopoda sp. HBG6146
+Thysanoessa spinifera
+Stylocheiron affine
+Euphausia eximia
+Stylocheiron sp. USNM IZ 1448662
+Thysanoessa longipes
+Euphausiacea sp. caab201
+Nyctiphanes environmental sample
+Thysanopoda cornuta
+Hansarsia sp. USNM IZ 1448663
+Euphausia triacantha
+Euphausia hemigibba
+Euphausiidae sp. EU2
+Stylocheiron sp. USNM IZ 1448672
+Thysanoessa inspinata
+Nematobrachion flexipes
+Euphausiacea sp. caab199
+Hansarsia difficilis
+Euphausiacea sp.
+Euphausia crystallorophias
+Paracrangon echinata
+Fabia emiliai
+Portunidae sp. PNG-0158
+Euastacus valentulus
+Porcellanidae sp. C_0560
+Cambarus cracens
+Plagusia chabrus
+Caridea sp. LPdivOTU273
+Garymunida imitata
+Caridina spinula
+Thalamita crenata
+Pitho lherminieri
+Dacryomaia edmonsoni
+Austrothelphusa sp. ww23318
+Pagurus filholi
+Hyastenus sp. 19142B
+Cantopotamon yangxiense
+Pilumnidae sp. USNM 1466877
+Conchodytes tridacnae
+Aegla longirostri complex sp. UFSM 4778
+Clibanarius signatus
+Alpheidae sp. PNG-0086o
+Hypocolpus diverticulatus
+Alpheus sp. HAW01
+Atyoida sp. 1 VDM-2024a
+Phylladiorhynchus sp. C_0256
+Upogebia miyakei
+Anisomenaeus spinimanus
+uncultured Panulirus
