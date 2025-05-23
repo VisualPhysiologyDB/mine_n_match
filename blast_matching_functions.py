@@ -95,10 +95,10 @@ def format_blast_db(db_file_path):
 def main():
     print("Script started!")
     # User settings
-    DB_folder = '/home/local/ADS/nicoleharris/labdata/users/McKinley/Nicole_Harris/blast_dbs/opsin_dbs'
-    QUERY_folder = "/home/local/ADS/nicoleharris/labdata/ostracod_seqData/aa"
-    job_name = 'transx' # This can represent your protein family or project name
-    results_folder = '/home/local/ADS/nicoleharris/labdata/users/McKinley/Nicole_Harris/opsin_blast_results'
+    DB_folder = '/path/to/your/db/folder'
+    QUERY_folder = "path/to/your/query/folder"
+    job_name = 'protein_family_name' # This can represent your protein family or project name
+    results_folder = 'path/to/your/results/folder'
 
     if not os.path.isdir(results_folder):
         os.makedirs(results_folder, exist_ok=True)
@@ -137,11 +137,13 @@ def main():
                     query_path_full = os.path.join(QUERY_folder, query_filename)
                     query_name_base = os.path.splitext(query_filename)[0]
 
-                    # Temporary output file for this specific BLAST run's raw results
+                    # Output file for this specific BLAST run's raw results
+                    if not os.path.isdir(f"{results_folder}/raw_blast_results"):
+                        os.makedirs(f"{results_folder}/raw_blast_results", exist_ok=True)
                     time_stamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
                     temp_raw_blast_output_file = os.path.join(
-                        results_folder,
-                        f"temp_blast_{job_name}_{query_name_base}_vs_{db_name_base}_{time_stamp}.tsv"
+                        f"{results_folder}/raw_blast_results/",
+                        f"{job_name}_{query_name_base}_vs_{db_name_base}_{time_stamp}.tsv"
                     )
 
                     # Run BLAST and get DataFrame
@@ -184,7 +186,7 @@ def main():
                 final_compiled_df_for_db = pd.concat(all_best_hits_for_this_db_list, ignore_index=True)
                 
                 # Final compiled CSV filename: jobName_dbName_bestHits.csv
-                compiled_csv_filename = os.path.join(results_folder, f"{job_name}_{db_name_base}_best_hits_compiled.csv")
+                compiled_csv_filename = os.path.join(results_folder, f"{job_name}_{db_name_base}_best_hits_compiled_{time_stamp}.csv")
                 final_compiled_df_for_db.to_csv(compiled_csv_filename, index=False)
                 
                 print(f"\n  Successfully compiled {len(final_compiled_df_for_db)} total best hits for database '{db_filename}'.")
@@ -192,6 +194,7 @@ def main():
             else:
                 print(f"\n  No best hits found for any query files against database '{db_filename}'.")
             print("---")
+
 
     print("\nScript finished!")
 
